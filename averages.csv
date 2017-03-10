@@ -1,0 +1,2281 @@
+"subject","activity","measurement","average"
+1,"Walking","fBodyAccJerkmeanX",-0.547348892435764
+1,"Walking","fBodyAccJerkmeanY",-0.507343617969859
+1,"Walking","fBodyAccJerkmeanZ",-0.695305113832853
+1,"Walking","fBodyAccJerkstdX",-0.543979776127867
+1,"Walking","fBodyAccJerkstdY",-0.466251676533372
+1,"Walking","fBodyAccJerkstdZ",-0.737861932680115
+1,"Walking","fBodyAccMagmean",-0.478448523354179
+1,"Walking","fBodyAccmeanX",-0.531895161258213
+1,"Walking","fBodyAccmeanY",-0.406435448904438
+1,"Walking","fBodyAccmeanZ",-0.596411165253602
+1,"Walking","fBodyAccstdX",-0.553060616663401
+1,"Walking","fBodyAccstdY",-0.390150939647061
+1,"Walking","fBodyAccstdZ",-0.498583091676081
+1,"Walking","fBodyBodyAccJerkMagmean",-0.499075765624092
+1,"Walking","fBodyBodyGyroJerkMagmean",-0.645970655298847
+1,"Walking","fBodyBodyGyroMagmean",-0.535002770337752
+1,"Walking","fBodyGyromeanX",-0.623219182311527
+1,"Walking","fBodyGyromeanY",-0.505309434070029
+1,"Walking","fBodyGyromeanZ",-0.553529065425648
+1,"Walking","fBodyGyrostdX",-0.708263420861671
+1,"Walking","fBodyGyrostdY",-0.429825832648703
+1,"Walking","fBodyGyrostdZ",-0.650476162132565
+1,"Walking","tBodyAccJerkMagmean",-0.545431612066571
+1,"Walking","tBodyAccJerkmeanX",0.0770930495126801
+1,"Walking","tBodyAccJerkmeanY",0.0165908438802305
+1,"Walking","tBodyAccJerkmeanZ",-0.00910758730117003
+1,"Walking","tBodyAccJerkstdX",-0.524721922818732
+1,"Walking","tBodyAccJerkstdY",-0.470412403511239
+1,"Walking","tBodyAccJerkstdZ",-0.717322274881844
+1,"Walking","tBodyAccMagmean",-0.453632943768818
+1,"Walking","tBodyAccmeanX",0.265696920582133
+1,"Walking","tBodyAccmeanY",-0.0182981725176081
+1,"Walking","tBodyAccmeanZ",-0.10784573454611
+1,"Walking","tBodyAccstdX",-0.545795331328326
+1,"Walking","tBodyAccstdY",-0.367716218227378
+1,"Walking","tBodyAccstdZ",-0.502645746562824
+1,"Walking","tBodyGyroJerkMagmean",-0.639517432642651
+1,"Walking","tBodyGyroJerkmeanX",-0.0971120197265994
+1,"Walking","tBodyGyroJerkmeanY",-0.0417164808293948
+1,"Walking","tBodyGyroJerkmeanZ",-0.0471393985477522
+1,"Walking","tBodyGyroJerkstdX",-0.637812687210375
+1,"Walking","tBodyGyroJerkstdY",-0.634472244550432
+1,"Walking","tBodyGyroJerkstdZ",-0.664591977786455
+1,"Walking","tBodyGyroMagmean",-0.475404785802305
+1,"Walking","tBodyGyromeanX",-0.0208764064320173
+1,"Walking","tBodyGyromeanY",-0.0880722729400576
+1,"Walking","tBodyGyromeanZ",0.0862641666597983
+1,"Walking","tBodyGyrostdX",-0.686555715201729
+1,"Walking","tBodyGyrostdY",-0.450979810499568
+1,"Walking","tBodyGyrostdZ",-0.597496136795101
+1,"Walking","tGravityAccMagmean",-0.453632943768818
+1,"Walking","tGravityAccmeanX",0.744867411573487
+1,"Walking","tGravityAccmeanY",-0.0825562579855908
+1,"Walking","tGravityAccmeanZ",0.072339870389049
+1,"Walking","tGravityAccstdX",-0.959859435936599
+1,"Walking","tGravityAccstdY",-0.951150627458213
+1,"Walking","tGravityAccstdZ",-0.925817590867435
+2,"Walking","fBodyAccJerkmeanX",-0.561682049622185
+2,"Walking","fBodyAccJerkmeanY",-0.50890379901457
+2,"Walking","fBodyAccJerkmeanZ",-0.715745330403973
+2,"Walking","fBodyAccJerkstdX",-0.595105612895033
+2,"Walking","fBodyAccJerkstdY",-0.509147543673841
+2,"Walking","fBodyAccJerkstdZ",-0.767087015496689
+2,"Walking","fBodyAccMagmean",-0.514569861316887
+2,"Walking","fBodyAccmeanX",-0.57377091142947
+2,"Walking","fBodyAccmeanY",-0.432566581302351
+2,"Walking","fBodyAccmeanZ",-0.630081222124834
+2,"Walking","fBodyAccstdX",-0.619788102803311
+2,"Walking","fBodyAccstdY",-0.464723862913245
+2,"Walking","fBodyAccstdZ",-0.600678614835099
+2,"Walking","fBodyBodyAccJerkMagmean",-0.509746432970861
+2,"Walking","fBodyBodyGyroJerkMagmean",-0.751615078360927
+2,"Walking","fBodyBodyGyroMagmean",-0.699742945221854
+2,"Walking","fBodyGyromeanX",-0.638717694593046
+2,"Walking","fBodyGyromeanY",-0.722068978635762
+2,"Walking","fBodyGyromeanZ",-0.601594889654305
+2,"Walking","fBodyGyrostdX",-0.734588540182119
+2,"Walking","fBodyGyrostdY",-0.72716774102649
+2,"Walking","fBodyGyrostdZ",-0.683114494539735
+2,"Walking","tBodyAccJerkMagmean",-0.58777744543543
+2,"Walking","tBodyAccJerkmeanX",0.0785353156747351
+2,"Walking","tBodyAccJerkmeanY",0.00708771249764901
+2,"Walking","tBodyAccJerkmeanZ",0.000755760748377483
+2,"Walking","tBodyAccJerkstdX",-0.557809603123841
+2,"Walking","tBodyAccJerkstdY",-0.491875889831788
+2,"Walking","tBodyAccJerkstdZ",-0.741885388311258
+2,"Walking","tBodyAccMagmean",-0.535281800541722
+2,"Walking","tBodyAccmeanX",0.273113115788079
+2,"Walking","tBodyAccmeanY",-0.0191323183174834
+2,"Walking","tBodyAccmeanZ",-0.115649958175497
+2,"Walking","tBodyAccstdX",-0.605586497159271
+2,"Walking","tBodyAccstdY",-0.428962986589404
+2,"Walking","tBodyAccstdZ",-0.589360062210596
+2,"Walking","tBodyGyroJerkMagmean",-0.746559539039735
+2,"Walking","tBodyGyroJerkmeanX",-0.0875587491668874
+2,"Walking","tBodyGyroJerkmeanY",-0.0433986835453642
+2,"Walking","tBodyGyroJerkmeanZ",-0.0557541828188742
+2,"Walking","tBodyGyroJerkstdX",-0.671679103311258
+2,"Walking","tBodyGyroJerkstdY",-0.783595466728477
+2,"Walking","tBodyGyroJerkstdZ",-0.674611933293046
+2,"Walking","tBodyGyroMagmean",-0.614771054893146
+2,"Walking","tBodyGyromeanX",-0.0517030657821192
+2,"Walking","tBodyGyromeanY",-0.0568420186817881
+2,"Walking","tBodyGyromeanZ",0.0872599422291391
+2,"Walking","tBodyGyrostdX",-0.710648927815894
+2,"Walking","tBodyGyrostdY",-0.722943674337748
+2,"Walking","tBodyGyrostdZ",-0.634888927843046
+2,"Walking","tGravityAccMagmean",-0.535281800541722
+2,"Walking","tGravityAccmeanX",0.660782866688742
+2,"Walking","tGravityAccmeanY",-0.147219886910411
+2,"Walking","tGravityAccmeanZ",0.134865335090728
+2,"Walking","tGravityAccstdX",-0.963015508245033
+2,"Walking","tGravityAccstdY",-0.960033560165563
+2,"Walking","tGravityAccstdZ",-0.945365383907285
+3,"Walking","fBodyAccJerkmeanX",-0.645893496630499
+3,"Walking","fBodyAccJerkmeanY",-0.582949919157742
+3,"Walking","fBodyAccJerkmeanZ",-0.780101644193548
+3,"Walking","fBodyAccJerkstdX",-0.657844055881525
+3,"Walking","fBodyAccJerkstdY",-0.559851186088408
+3,"Walking","fBodyAccJerkstdZ",-0.81080601659824
+3,"Walking","fBodyAccMagmean",-0.579076453758064
+3,"Walking","fBodyAccmeanX",-0.625733289873607
+3,"Walking","fBodyAccmeanY",-0.501779938505279
+3,"Walking","fBodyAccmeanZ",-0.699656828592375
+3,"Walking","fBodyAccstdX",-0.623805015199413
+3,"Walking","fBodyAccstdY",-0.502753639795894
+3,"Walking","fBodyAccstdZ",-0.657443765803519
+3,"Walking","fBodyBodyAccJerkMagmean",-0.604752108072727
+3,"Walking","fBodyBodyGyroJerkMagmean",-0.810085498651026
+3,"Walking","fBodyBodyGyroMagmean",-0.716822144279179
+3,"Walking","fBodyGyromeanX",-0.642097719778592
+3,"Walking","fBodyGyromeanY",-0.775144985073314
+3,"Walking","fBodyGyromeanZ",-0.670734708996481
+3,"Walking","fBodyGyrostdX",-0.719276622702346
+3,"Walking","fBodyGyrostdY",-0.758505287214076
+3,"Walking","fBodyGyrostdZ",-0.751008875659824
+3,"Walking","tBodyAccJerkMagmean",-0.650182434328446
+3,"Walking","tBodyAccJerkmeanX",0.0701731261988856
+3,"Walking","tBodyAccJerkmeanY",0.0144664329060411
+3,"Walking","tBodyAccJerkmeanZ",-0.000526818872875366
+3,"Walking","tBodyAccJerkstdX",-0.635484688041056
+3,"Walking","tBodyAccJerkstdY",-0.55721186773783
+3,"Walking","tBodyAccJerkstdZ",-0.796066240234604
+3,"Walking","tBodyAccMagmean",-0.563140802770059
+3,"Walking","tBodyAccmeanX",0.273428719636364
+3,"Walking","tBodyAccmeanY",-0.017856067384956
+3,"Walking","tBodyAccmeanZ",-0.106492632429097
+3,"Walking","tBodyAccstdX",-0.623413602046921
+3,"Walking","tBodyAccstdY",-0.480015920697654
+3,"Walking","tBodyAccstdZ",-0.653625579293255
+3,"Walking","tBodyGyroJerkMagmean",-0.784056656246334
+3,"Walking","tBodyGyroJerkmeanX",-0.0991554609633431
+3,"Walking","tBodyGyroJerkmeanY",-0.0401923943695015
+3,"Walking","tBodyGyroJerkmeanZ",-0.0521178264170088
+3,"Walking","tBodyGyroJerkstdX",-0.689328428607038
+3,"Walking","tBodyGyroJerkstdY",-0.842659862111437
+3,"Walking","tBodyGyroJerkstdZ",-0.743028500565982
+3,"Walking","tBodyGyroMagmean",-0.643150121648094
+3,"Walking","tBodyGyromeanX",-0.0248490682828446
+3,"Walking","tBodyGyromeanY",-0.0743565308442815
+3,"Walking","tBodyGyromeanZ",0.0866875497119062
+3,"Walking","tBodyGyrostdX",-0.699262195705865
+3,"Walking","tBodyGyrostdY",-0.76302218170088
+3,"Walking","tBodyGyrostdZ",-0.709483440322581
+3,"Walking","tGravityAccMagmean",-0.563140802770059
+3,"Walking","tGravityAccmeanX",0.707814353343108
+3,"Walking","tGravityAccmeanY",-0.0260590480328739
+3,"Walking","tGravityAccmeanZ",0.0480937904190616
+3,"Walking","tGravityAccstdX",-0.966457565630499
+3,"Walking","tGravityAccstdY",-0.9445645371261
+3,"Walking","tGravityAccstdZ",-0.926966278211144
+4,"Walking","fBodyAccJerkmeanX",-0.717973724971649
+4,"Walking","fBodyAccJerkmeanY",-0.684648403917526
+4,"Walking","fBodyAccJerkmeanZ",-0.845383895412371
+4,"Walking","fBodyAccJerkstdX",-0.710952957814433
+4,"Walking","fBodyAccJerkstdY",-0.679116699128866
+4,"Walking","fBodyAccJerkstdZ",-0.872348615876289
+4,"Walking","fBodyAccMagmean",-0.668273665958763
+4,"Walking","fBodyAccmeanX",-0.698994344226804
+4,"Walking","fBodyAccmeanY",-0.610966605674742
+4,"Walking","fBodyAccmeanZ",-0.784964119020619
+4,"Walking","fBodyAccstdX",-0.679316495457474
+4,"Walking","fBodyAccstdY",-0.60587907902268
+4,"Walking","fBodyAccstdZ",-0.739920171907216
+4,"Walking","fBodyBodyAccJerkMagmean",-0.702045896773196
+4,"Walking","fBodyBodyGyroJerkMagmean",-0.86760194427835
+4,"Walking","fBodyBodyGyroMagmean",-0.785172936701031
+4,"Walking","fBodyGyromeanX",-0.708097003278351
+4,"Walking","fBodyGyromeanY",-0.851859241237113
+4,"Walking","fBodyGyromeanZ",-0.723913683350515
+4,"Walking","fBodyGyrostdX",-0.765931837365979
+4,"Walking","fBodyGyrostdY",-0.818105282886598
+4,"Walking","fBodyGyrostdZ",-0.778863649278351
+4,"Walking","tBodyAccJerkMagmean",-0.72234055742268
+4,"Walking","tBodyAccJerkmeanX",0.0780162237953608
+4,"Walking","tBodyAccJerkmeanY",-0.0010311298138299
+4,"Walking","tBodyAccJerkmeanZ",-0.00737070069603093
+4,"Walking","tBodyAccJerkstdX",-0.701066737438144
+4,"Walking","tBodyAccJerkstdY",-0.670976701376289
+4,"Walking","tBodyAccJerkstdZ",-0.859502524793814
+4,"Walking","tBodyAccMagmean",-0.637532979814948
+4,"Walking","tBodyAccmeanX",0.277034464752577
+4,"Walking","tBodyAccmeanY",-0.0133496817746907
+4,"Walking","tBodyAccmeanZ",-0.105916135927835
+4,"Walking","tBodyAccstdX",-0.68386446609433
+4,"Walking","tBodyAccstdY",-0.589609330539691
+4,"Walking","tBodyAccstdZ",-0.741959040257732
+4,"Walking","tBodyGyroJerkMagmean",-0.849581355824742
+4,"Walking","tBodyGyroJerkmeanX",-0.10509869233866
+4,"Walking","tBodyGyroJerkmeanY",-0.0410624426912371
+4,"Walking","tBodyGyroJerkmeanZ",-0.060866534304433
+4,"Walking","tBodyGyroJerkstdX",-0.778479585721649
+4,"Walking","tBodyGyroJerkstdY",-0.911436316752577
+4,"Walking","tBodyGyroJerkstdZ",-0.790578254329897
+4,"Walking","tBodyGyroMagmean",-0.708221087886598
+4,"Walking","tBodyGyromeanX",-0.0298726752979381
+4,"Walking","tBodyGyromeanY",-0.0750086556675258
+4,"Walking","tBodyGyromeanZ",0.0956607416628866
+4,"Walking","tBodyGyrostdX",-0.750915960835052
+4,"Walking","tBodyGyrostdY",-0.828888294742268
+4,"Walking","tBodyGyrostdZ",-0.745904225824742
+4,"Walking","tGravityAccMagmean",-0.637532979814948
+4,"Walking","tGravityAccmeanX",0.731456509896907
+4,"Walking","tGravityAccmeanY",0.072347989306416
+4,"Walking","tGravityAccmeanZ",0.193993433768041
+4,"Walking","tGravityAccstdX",-0.967576704329897
+4,"Walking","tGravityAccstdY",-0.94170652321134
+4,"Walking","tGravityAccstdZ",-0.936724233273196
+4,"Walking Upstairs","fBodyAccJerkmeanX",-0.548003358486179
+4,"Walking Upstairs","fBodyAccJerkmeanY",-0.470861077819187
+4,"Walking Upstairs","fBodyAccJerkmeanZ",-0.793248930406504
+4,"Walking Upstairs","fBodyAccJerkstdX",-0.540002452644715
+4,"Walking Upstairs","fBodyAccJerkstdY",-0.459377588636585
+4,"Walking Upstairs","fBodyAccJerkstdZ",-0.841927060081301
+4,"Walking Upstairs","fBodyAccMagmean",-0.497723469494309
+4,"Walking Upstairs","fBodyAccmeanX",-0.518103409715447
+4,"Walking Upstairs","fBodyAccmeanY",-0.391561268041463
+4,"Walking Upstairs","fBodyAccmeanZ",-0.708346275365854
+4,"Walking Upstairs","fBodyAccstdX",-0.468588371045528
+4,"Walking Upstairs","fBodyAccstdY",-0.422334649479756
+4,"Walking Upstairs","fBodyAccstdZ",-0.659623483821138
+4,"Walking Upstairs","fBodyBodyAccJerkMagmean",-0.529301794643089
+4,"Walking Upstairs","fBodyBodyGyroJerkMagmean",-0.793458132276423
+4,"Walking Upstairs","fBodyBodyGyroMagmean",-0.683314955211382
+4,"Walking Upstairs","fBodyGyromeanX",-0.537445270313821
+4,"Walking Upstairs","fBodyGyromeanY",-0.799459630325203
+4,"Walking Upstairs","fBodyGyromeanZ",-0.634729117447154
+4,"Walking Upstairs","fBodyGyrostdX",-0.652062731170732
+4,"Walking Upstairs","fBodyGyrostdY",-0.727336206422764
+4,"Walking Upstairs","fBodyGyrostdZ",-0.748519078617886
+4,"Walking Upstairs","tBodyAccJerkMagmean",-0.551665062753089
+4,"Walking Upstairs","tBodyAccJerkmeanX",0.080200587601626
+4,"Walking Upstairs","tBodyAccJerkmeanY",0.0106812194621382
+4,"Walking Upstairs","tBodyAccJerkmeanZ",-0.00737856315243902
+4,"Walking Upstairs","tBodyAccJerkstdX",-0.522686832030976
+4,"Walking Upstairs","tBodyAccJerkstdY",-0.446980128646341
+4,"Walking Upstairs","tBodyAccJerkstdZ",-0.817881987560976
+4,"Walking Upstairs","tBodyAccMagmean",-0.441789745892683
+4,"Walking Upstairs","tBodyAccmeanX",0.269685855146341
+4,"Walking Upstairs","tBodyAccmeanY",-0.0171085099442602
+4,"Walking Upstairs","tBodyAccmeanZ",-0.110053359325203
+4,"Walking Upstairs","tBodyAccstdX",-0.481157815330894
+4,"Walking Upstairs","tBodyAccstdY",-0.384255322007236
+4,"Walking Upstairs","tBodyAccstdZ",-0.658285719430894
+4,"Walking Upstairs","tBodyGyroJerkMagmean",-0.771259192195122
+4,"Walking Upstairs","tBodyGyroJerkmeanX",-0.112213469653659
+4,"Walking Upstairs","tBodyGyroJerkmeanY",-0.0384344734528455
+4,"Walking Upstairs","tBodyGyroJerkmeanZ",-0.0529863681443902
+4,"Walking Upstairs","tBodyGyroJerkstdX",-0.637528066829268
+4,"Walking Upstairs","tBodyGyroJerkstdY",-0.888412003333333
+4,"Walking Upstairs","tBodyGyroJerkstdZ",-0.681795418349593
+4,"Walking Upstairs","tBodyGyroMagmean",-0.574385249590244
+4,"Walking Upstairs","tBodyGyromeanX",-0.027473566188374
+4,"Walking Upstairs","tBodyGyromeanY",-0.0845813729861789
+4,"Walking Upstairs","tBodyGyromeanZ",0.0958069867471545
+4,"Walking Upstairs","tBodyGyrostdX",-0.623295736308943
+4,"Walking Upstairs","tBodyGyrostdY",-0.749889456666667
+4,"Walking Upstairs","tBodyGyrostdZ",-0.695570737073171
+4,"Walking Upstairs","tGravityAccMagmean",-0.441789745892683
+4,"Walking Upstairs","tGravityAccmeanX",0.667377493902439
+4,"Walking Upstairs","tGravityAccmeanY",0.176064219895122
+4,"Walking Upstairs","tGravityAccmeanZ",0.117030634772358
+4,"Walking Upstairs","tGravityAccstdX",-0.954845868211382
+4,"Walking Upstairs","tGravityAccstdY",-0.940959838617886
+4,"Walking Upstairs","tGravityAccstdZ",-0.948783616341463
+5,"Walking","fBodyAccJerkmeanX",-0.604769869438742
+5,"Walking","fBodyAccJerkmeanY",-0.550991969857417
+5,"Walking","fBodyAccJerkmeanZ",-0.768762357980132
+5,"Walking","fBodyAccJerkstdX",-0.584013626983444
+5,"Walking","fBodyAccJerkstdY",-0.491500434303907
+5,"Walking","fBodyAccJerkstdZ",-0.798835563807947
+5,"Walking","fBodyAccMagmean",-0.528503022745033
+5,"Walking","fBodyAccmeanX",-0.55123770513245
+5,"Walking","fBodyAccmeanY",-0.440232431795033
+5,"Walking","fBodyAccmeanZ",-0.696171811490066
+5,"Walking","fBodyAccstdX",-0.492829885748675
+5,"Walking","fBodyAccstdY",-0.422162171100331
+5,"Walking","fBodyAccstdZ",-0.649351210748344
+5,"Walking","fBodyBodyAccJerkMagmean",-0.573176177044172
+5,"Walking","fBodyBodyGyroJerkMagmean",-0.748829309536424
+5,"Walking","fBodyBodyGyroMagmean",-0.677355755703311
+5,"Walking","fBodyGyromeanX",-0.632239300829801
+5,"Walking","fBodyGyromeanY",-0.71706218781457
+5,"Walking","fBodyGyromeanZ",-0.537329127293278
+5,"Walking","fBodyGyrostdX",-0.73573857718543
+5,"Walking","fBodyGyrostdY",-0.702290390960265
+5,"Walking","fBodyGyrostdZ",-0.669353687483444
+5,"Walking","tBodyAccJerkMagmean",-0.589313870006622
+5,"Walking","tBodyAccJerkmeanX",0.0841019899622517
+5,"Walking","tBodyAccJerkmeanY",0.0017656830384106
+5,"Walking","tBodyAccJerkmeanZ",-0.0029537113427351
+5,"Walking","tBodyAccJerkstdX",-0.575890535679801
+5,"Walking","tBodyAccJerkstdY",-0.506544358609603
+5,"Walking","tBodyAccJerkstdZ",-0.78456199486755
+5,"Walking","tBodyAccMagmean",-0.460866415568709
+5,"Walking","tBodyAccmeanX",0.279177960301325
+5,"Walking","tBodyAccmeanY",-0.0154833455336192
+5,"Walking","tBodyAccmeanZ",-0.105661736816887
+5,"Walking","tBodyAccstdX",-0.507691011391722
+5,"Walking","tBodyAccstdY",-0.402724906078146
+5,"Walking","tBodyAccstdZ",-0.646443640175497
+5,"Walking","tBodyGyroJerkMagmean",-0.707383517582782
+5,"Walking","tBodyGyroJerkmeanX",-0.103522877147351
+5,"Walking","tBodyGyroJerkmeanY",-0.0490624519374172
+5,"Walking","tBodyGyroJerkmeanZ",-0.0506258160122517
+5,"Walking","tBodyGyroJerkstdX",-0.662581310334437
+5,"Walking","tBodyGyroJerkstdY",-0.774114270364238
+5,"Walking","tBodyGyroJerkstdZ",-0.564680771249007
+5,"Walking","tBodyGyroMagmean",-0.602770284825828
+5,"Walking","tBodyGyromeanX",-0.0294516873643046
+5,"Walking","tBodyGyromeanY",-0.0774316445596026
+5,"Walking","tBodyGyromeanZ",0.0866267116745033
+5,"Walking","tBodyGyrostdX",-0.709955676983444
+5,"Walking","tBodyGyrostdY",-0.705638306688742
+5,"Walking","tBodyGyrostdZ",-0.606589817380795
+5,"Walking","tGravityAccMagmean",-0.460866415568709
+5,"Walking","tGravityAccmeanX",0.698153719072848
+5,"Walking","tGravityAccmeanY",0.112313109736755
+5,"Walking","tGravityAccmeanZ",0.0921607197449904
+5,"Walking","tGravityAccstdX",-0.964629108807947
+5,"Walking","tGravityAccstdY",-0.939973777950331
+5,"Walking","tGravityAccstdZ",-0.94207867884106
+6,"Walking","fBodyAccJerkmeanX",-0.677779817705085
+6,"Walking","fBodyAccJerkmeanY",-0.66059454675
+6,"Walking","fBodyAccJerkmeanZ",-0.859603672415254
+6,"Walking","fBodyAccJerkstdX",-0.686677797992797
+6,"Walking","fBodyAccJerkstdY",-0.616329704501695
+6,"Walking","fBodyAccJerkstdZ",-0.882511909533898
+6,"Walking","fBodyAccMagmean",-0.631495453982373
+6,"Walking","fBodyAccmeanX",-0.646620302652542
+6,"Walking","fBodyAccmeanY",-0.578355099619068
+6,"Walking","fBodyAccmeanZ",-0.814738365169491
+6,"Walking","fBodyAccstdX",-0.649772161629703
+6,"Walking","fBodyAccstdY",-0.568609162121059
+6,"Walking","fBodyAccstdZ",-0.793153623220339
+6,"Walking","fBodyBodyAccJerkMagmean",-0.652860664036017
+6,"Walking","fBodyBodyGyroJerkMagmean",-0.802472022627119
+6,"Walking","fBodyBodyGyroMagmean",-0.73860950399661
+6,"Walking","fBodyGyromeanX",-0.710060816508475
+6,"Walking","fBodyGyromeanY",-0.761625061822034
+6,"Walking","fBodyGyromeanZ",-0.668113881479237
+6,"Walking","fBodyGyrostdX",-0.786180311132627
+6,"Walking","fBodyGyrostdY",-0.76410811809322
+6,"Walking","fBodyGyrostdZ",-0.770467456313559
+6,"Walking","tBodyAccJerkMagmean",-0.701327652220339
+6,"Walking","tBodyAccJerkmeanX",0.0866435091149576
+6,"Walking","tBodyAccJerkmeanY",0.00183060788194915
+6,"Walking","tBodyAccJerkmeanZ",-0.000810930989618644
+6,"Walking","tBodyAccJerkstdX",-0.667198721502542
+6,"Walking","tBodyAccJerkstdY",-0.627357097410593
+6,"Walking","tBodyAccJerkstdZ",-0.871721440720339
+6,"Walking","tBodyAccMagmean",-0.619147950475381
+6,"Walking","tBodyAccmeanX",0.269434151902542
+6,"Walking","tBodyAccmeanY",-0.0163911123936864
+6,"Walking","tBodyAccmeanZ",-0.117900692084746
+6,"Walking","tBodyAccstdX",-0.647669170333475
+6,"Walking","tBodyAccstdY",-0.553142396078856
+6,"Walking","tBodyAccstdZ",-0.789845077542373
+6,"Walking","tBodyGyroJerkMagmean",-0.780046966228814
+6,"Walking","tBodyGyroJerkmeanX",-0.0919680285336017
+6,"Walking","tBodyGyroJerkmeanY",-0.0437656755737288
+6,"Walking","tBodyGyroJerkmeanZ",-0.0571513411507627
+6,"Walking","tBodyGyroJerkstdX",-0.739023005
+6,"Walking","tBodyGyroJerkstdY",-0.82004406309322
+6,"Walking","tBodyGyroJerkstdZ",-0.70638507157161
+6,"Walking","tBodyGyroMagmean",-0.690488145614407
+6,"Walking","tBodyGyromeanX",-0.0342840234147034
+6,"Walking","tBodyGyromeanY",-0.0772570116263983
+6,"Walking","tBodyGyromeanZ",0.104308754638941
+6,"Walking","tBodyGyrostdX",-0.767068673052966
+6,"Walking","tBodyGyrostdY",-0.761438068516949
+6,"Walking","tBodyGyrostdZ",-0.723490206153814
+6,"Walking","tGravityAccMagmean",-0.619147950475381
+6,"Walking","tGravityAccmeanX",0.670506153601695
+6,"Walking","tGravityAccmeanY",0.0612321366461864
+6,"Walking","tGravityAccmeanZ",0.0584702778558475
+6,"Walking","tGravityAccstdX",-0.95651898940678
+6,"Walking","tGravityAccstdY",-0.952613166822034
+6,"Walking","tGravityAccstdZ",-0.940646609533898
+6,"Walking Upstairs","fBodyAccJerkmeanX",-0.2089562025
+6,"Walking Upstairs","fBodyAccJerkmeanY",-0.0871500384348315
+6,"Walking Upstairs","fBodyAccJerkmeanZ",-0.352981568269663
+6,"Walking Upstairs","fBodyAccJerkstdX",-0.207095971672
+6,"Walking Upstairs","fBodyAccJerkstdY",0.0354678201573034
+6,"Walking Upstairs","fBodyAccJerkstdZ",-0.419621473955056
+6,"Walking Upstairs","fBodyAccMagmean",-0.0562800368966292
+6,"Walking Upstairs","fBodyAccmeanX",-0.133757972988764
+6,"Walking Upstairs","fBodyAccmeanY",0.102003878820225
+6,"Walking Upstairs","fBodyAccmeanZ",-0.336322224157303
+6,"Walking Upstairs","fBodyAccstdX",-0.127245614919101
+6,"Walking Upstairs","fBodyAccstdY",0.0592301040449438
+6,"Walking Upstairs","fBodyAccstdZ",-0.432409407539326
+6,"Walking Upstairs","fBodyBodyAccJerkMagmean",-0.0759734389325843
+6,"Walking Upstairs","fBodyBodyGyroJerkMagmean",-0.252582563561798
+6,"Walking Upstairs","fBodyBodyGyroMagmean",-0.156240715516854
+6,"Walking Upstairs","fBodyGyromeanX",-0.0788327637831461
+6,"Walking Upstairs","fBodyGyromeanY",-0.248795741449438
+6,"Walking Upstairs","fBodyGyromeanZ",-0.0819830495561798
+6,"Walking Upstairs","fBodyGyrostdX",-0.445412804202247
+6,"Walking Upstairs","fBodyGyrostdY",-0.28620515505618
+6,"Walking Upstairs","fBodyGyrostdZ",-0.414621153179775
+6,"Walking Upstairs","tBodyAccJerkMagmean",-0.153888888820225
+6,"Walking Upstairs","tBodyAccJerkmeanX",0.0674351008988764
+6,"Walking Upstairs","tBodyAccJerkmeanY",-0.00310401228089888
+6,"Walking Upstairs","tBodyAccJerkmeanZ",-0.00609868840674157
+6,"Walking Upstairs","tBodyAccJerkstdX",-0.171553961355056
+6,"Walking Upstairs","tBodyAccJerkstdY",0.00409088203382023
+6,"Walking Upstairs","tBodyAccJerkstdZ",-0.386900926617978
+6,"Walking Upstairs","tBodyAccMagmean",-0.0554082692382022
+6,"Walking Upstairs","tBodyAccmeanX",0.280179098426966
+6,"Walking Upstairs","tBodyAccmeanY",-0.0206949591117978
+6,"Walking Upstairs","tBodyAccmeanZ",-0.110940029325843
+6,"Walking Upstairs","tBodyAccstdX",-0.127000600558652
+6,"Walking Upstairs","tBodyAccstdY",0.121465311011236
+6,"Walking Upstairs","tBodyAccstdZ",-0.361381608884045
+6,"Walking Upstairs","tBodyGyroJerkMagmean",-0.202676039247191
+6,"Walking Upstairs","tBodyGyroJerkmeanX",-0.0589128557764045
+6,"Walking Upstairs","tBodyGyroJerkmeanY",-0.0500700364842697
+6,"Walking Upstairs","tBodyGyroJerkmeanZ",-0.0433103259283146
+6,"Walking Upstairs","tBodyGyroJerkstdX",-0.0342001184382022
+6,"Walking Upstairs","tBodyGyroJerkstdY",-0.300014548011236
+6,"Walking Upstairs","tBodyGyroJerkstdZ",-0.0509923894251685
+6,"Walking Upstairs","tBodyGyroMagmean",-0.175624994910562
+6,"Walking Upstairs","tBodyGyromeanX",-0.067430938188764
+6,"Walking Upstairs","tBodyGyromeanY",-0.0529948418524719
+6,"Walking Upstairs","tBodyGyromeanZ",0.0787625669280899
+6,"Walking Upstairs","tBodyGyrostdX",-0.35344952441573
+6,"Walking Upstairs","tBodyGyrostdY",-0.267781342044944
+6,"Walking Upstairs","tBodyGyrostdZ",-0.272215022761798
+6,"Walking Upstairs","tGravityAccMagmean",-0.0554082692382022
+6,"Walking Upstairs","tGravityAccmeanX",0.736951892247191
+6,"Walking Upstairs","tGravityAccmeanY",-0.103190808202247
+6,"Walking Upstairs","tGravityAccmeanZ",0.0184833048368539
+6,"Walking Upstairs","tGravityAccstdX",-0.965208976741573
+6,"Walking Upstairs","tGravityAccstdY",-0.946484614719101
+6,"Walking Upstairs","tGravityAccstdZ",-0.930654188651685
+7,"Walking Upstairs","fBodyAccJerkmeanX",-0.637521940243831
+7,"Walking Upstairs","fBodyAccJerkmeanY",-0.641687333850227
+7,"Walking Upstairs","fBodyAccJerkmeanZ",-0.642515716574286
+7,"Walking Upstairs","fBodyAccJerkstdX",-0.626785744584416
+7,"Walking Upstairs","fBodyAccJerkstdY",-0.62853163071948
+7,"Walking Upstairs","fBodyAccJerkstdZ",-0.684856438953896
+7,"Walking Upstairs","fBodyAccMagmean",-0.518323878824675
+7,"Walking Upstairs","fBodyAccmeanX",-0.593011288564935
+7,"Walking Upstairs","fBodyAccmeanY",-0.563547785174026
+7,"Walking Upstairs","fBodyAccmeanZ",-0.531005941495552
+7,"Walking Upstairs","fBodyAccstdX",-0.572347541484091
+7,"Walking Upstairs","fBodyAccstdY",-0.567046977262987
+7,"Walking Upstairs","fBodyAccstdZ",-0.460792123277305
+7,"Walking Upstairs","fBodyBodyAccJerkMagmean",-0.553360009658182
+7,"Walking Upstairs","fBodyBodyGyroJerkMagmean",-0.668879188156396
+7,"Walking Upstairs","fBodyBodyGyroMagmean",-0.628877272791136
+7,"Walking Upstairs","fBodyGyromeanX",-0.643767578493507
+7,"Walking Upstairs","fBodyGyromeanY",-0.630419275006169
+7,"Walking Upstairs","fBodyGyromeanZ",-0.655083354905844
+7,"Walking Upstairs","fBodyGyrostdX",-0.703883646896104
+7,"Walking Upstairs","fBodyGyrostdY",-0.671161922837662
+7,"Walking Upstairs","fBodyGyrostdZ",-0.698949518905844
+7,"Walking Upstairs","tBodyAccJerkMagmean",-0.622815767680292
+7,"Walking Upstairs","tBodyAccJerkmeanX",0.0831829573168831
+7,"Walking Upstairs","tBodyAccJerkmeanY",0.00760909767418831
+7,"Walking Upstairs","tBodyAccJerkmeanZ",-0.00791725696048701
+7,"Walking Upstairs","tBodyAccJerkstdX",-0.615131377408279
+7,"Walking Upstairs","tBodyAccJerkstdY",-0.622997416262013
+7,"Walking Upstairs","tBodyAccJerkstdZ",-0.664336860544416
+7,"Walking Upstairs","tBodyAccMagmean",-0.511312036747403
+7,"Walking Upstairs","tBodyAccmeanX",0.270211697814935
+7,"Walking Upstairs","tBodyAccmeanY",-0.0187904887668182
+7,"Walking Upstairs","tBodyAccmeanZ",-0.112492375388312
+7,"Walking Upstairs","tBodyAccstdX",-0.577518324748052
+7,"Walking Upstairs","tBodyAccstdY",-0.546403365345779
+7,"Walking Upstairs","tBodyAccstdZ",-0.456473642256981
+7,"Walking Upstairs","tBodyGyroJerkMagmean",-0.713191348337662
+7,"Walking Upstairs","tBodyGyroJerkmeanX",-0.0942037376182662
+7,"Walking Upstairs","tBodyGyroJerkmeanY",-0.0414401406082792
+7,"Walking Upstairs","tBodyGyroJerkmeanZ",-0.0610307928148701
+7,"Walking Upstairs","tBodyGyroJerkstdX",-0.701731200484416
+7,"Walking Upstairs","tBodyGyroJerkstdY",-0.674920114957468
+7,"Walking Upstairs","tBodyGyroJerkstdZ",-0.750808705594156
+7,"Walking Upstairs","tBodyGyroMagmean",-0.581899897967532
+7,"Walking Upstairs","tBodyGyromeanX",-0.0518716929407792
+7,"Walking Upstairs","tBodyGyromeanY",-0.0646077113078896
+7,"Walking Upstairs","tBodyGyromeanZ",0.0977671721406169
+7,"Walking Upstairs","tBodyGyrostdX",-0.687155474097403
+7,"Walking Upstairs","tBodyGyrostdY",-0.652408657909091
+7,"Walking Upstairs","tBodyGyrostdZ",-0.663340760331169
+7,"Walking Upstairs","tGravityAccMagmean",-0.511312036747403
+7,"Walking Upstairs","tGravityAccmeanX",0.681289120844156
+7,"Walking Upstairs","tGravityAccmeanY",-0.0420221452496753
+7,"Walking Upstairs","tGravityAccmeanZ",0.0342160711928604
+7,"Walking Upstairs","tGravityAccstdX",-0.956538178587662
+7,"Walking Upstairs","tGravityAccstdY",-0.955312554090909
+7,"Walking Upstairs","tGravityAccstdZ",-0.923304724090909
+8,"Walking Upstairs","fBodyAccJerkmeanX",-0.59163500910605
+8,"Walking Upstairs","fBodyAccJerkmeanY",-0.495906215569395
+8,"Walking Upstairs","fBodyAccJerkmeanZ",-0.644285802406762
+8,"Walking Upstairs","fBodyAccJerkstdX",-0.598546245236655
+8,"Walking Upstairs","fBodyAccJerkstdY",-0.45636839585694
+8,"Walking Upstairs","fBodyAccJerkstdZ",-0.691480916950178
+8,"Walking Upstairs","fBodyAccMagmean",-0.512106792856939
+8,"Walking Upstairs","fBodyAccmeanX",-0.581831414648399
+8,"Walking Upstairs","fBodyAccmeanY",-0.374944236206406
+8,"Walking Upstairs","fBodyAccmeanZ",-0.550979388719929
+8,"Walking Upstairs","fBodyAccstdX",-0.585343460535587
+8,"Walking Upstairs","fBodyAccstdY",-0.378656458967972
+8,"Walking Upstairs","fBodyAccstdZ",-0.513206312959075
+8,"Walking Upstairs","fBodyBodyAccJerkMagmean",-0.529244911130605
+8,"Walking Upstairs","fBodyBodyGyroJerkMagmean",-0.70215621546726
+8,"Walking Upstairs","fBodyBodyGyroMagmean",-0.609984289180071
+8,"Walking Upstairs","fBodyGyromeanX",-0.601382421248399
+8,"Walking Upstairs","fBodyGyromeanY",-0.575938482711388
+8,"Walking Upstairs","fBodyGyromeanZ",-0.525562919047438
+8,"Walking Upstairs","fBodyGyrostdX",-0.675275353078292
+8,"Walking Upstairs","fBodyGyrostdY",-0.573087292172598
+8,"Walking Upstairs","fBodyGyrostdZ",-0.553968587869751
+8,"Walking Upstairs","tBodyAccJerkMagmean",-0.534248616612028
+8,"Walking Upstairs","tBodyAccJerkmeanX",0.084215745375516
+8,"Walking Upstairs","tBodyAccJerkmeanY",0.000860301581786477
+8,"Walking Upstairs","tBodyAccJerkmeanZ",-0.0196719912994306
+8,"Walking Upstairs","tBodyAccJerkstdX",-0.575993073911744
+8,"Walking Upstairs","tBodyAccJerkstdY",-0.458724925167972
+8,"Walking Upstairs","tBodyAccJerkstdZ",-0.66835678475516
+8,"Walking Upstairs","tBodyAccMagmean",-0.468522592843416
+8,"Walking Upstairs","tBodyAccmeanX",0.270759063295374
+8,"Walking Upstairs","tBodyAccmeanY",-0.0181894974688612
+8,"Walking Upstairs","tBodyAccmeanZ",-0.106809623683986
+8,"Walking Upstairs","tBodyAccstdX",-0.582958863017438
+8,"Walking Upstairs","tBodyAccstdY",-0.349383732046263
+8,"Walking Upstairs","tBodyAccstdZ",-0.499472687913167
+8,"Walking Upstairs","tBodyGyroJerkMagmean",-0.673625525658363
+8,"Walking Upstairs","tBodyGyroJerkmeanX",-0.104969855200356
+8,"Walking Upstairs","tBodyGyroJerkmeanY",-0.0400922240331673
+8,"Walking Upstairs","tBodyGyroJerkmeanZ",-0.0582887148366548
+8,"Walking Upstairs","tBodyGyroJerkstdX",-0.674984452240214
+8,"Walking Upstairs","tBodyGyroJerkstdY",-0.683086930288968
+8,"Walking Upstairs","tBodyGyroJerkstdZ",-0.695970301754448
+8,"Walking Upstairs","tBodyGyroMagmean",-0.476214943826192
+8,"Walking Upstairs","tBodyGyromeanX",0.00359053897160142
+8,"Walking Upstairs","tBodyGyromeanY",-0.091077509832669
+8,"Walking Upstairs","tBodyGyromeanZ",0.0640867611561922
+8,"Walking Upstairs","tBodyGyrostdX",-0.656219242281851
+8,"Walking Upstairs","tBodyGyrostdY",-0.570941237019217
+8,"Walking Upstairs","tBodyGyrostdZ",-0.511392038012811
+8,"Walking Upstairs","tGravityAccMagmean",-0.468522592843416
+8,"Walking Upstairs","tGravityAccmeanX",0.647498175409253
+8,"Walking Upstairs","tGravityAccmeanY",0.0303211113118861
+8,"Walking Upstairs","tGravityAccmeanZ",0.0836542406807936
+8,"Walking Upstairs","tGravityAccstdX",-0.954256666035587
+8,"Walking Upstairs","tGravityAccstdY",-0.94844645047331
+8,"Walking Upstairs","tGravityAccstdZ",-0.923180663601423
+9,"Walking Upstairs","fBodyAccJerkmeanX",-0.621377141312847
+9,"Walking Upstairs","fBodyAccJerkmeanY",-0.699766614569444
+9,"Walking Upstairs","fBodyAccJerkmeanZ",-0.702931927996528
+9,"Walking Upstairs","fBodyAccJerkstdX",-0.572819893733993
+9,"Walking Upstairs","fBodyAccJerkstdY",-0.679065855003472
+9,"Walking Upstairs","fBodyAccJerkstdZ",-0.739139922708333
+9,"Walking Upstairs","fBodyAccMagmean",-0.553186448295139
+9,"Walking Upstairs","fBodyAccmeanX",-0.579258404408681
+9,"Walking Upstairs","fBodyAccmeanY",-0.610267804090278
+9,"Walking Upstairs","fBodyAccmeanZ",-0.592119122804271
+9,"Walking Upstairs","fBodyAccstdX",-0.547995744907986
+9,"Walking Upstairs","fBodyAccstdY",-0.586766083232639
+9,"Walking Upstairs","fBodyAccstdZ",-0.501074006965903
+9,"Walking Upstairs","fBodyBodyAccJerkMagmean",-0.609193721940625
+9,"Walking Upstairs","fBodyBodyGyroJerkMagmean",-0.786473954201389
+9,"Walking Upstairs","fBodyBodyGyroMagmean",-0.700863097986111
+9,"Walking Upstairs","fBodyGyromeanX",-0.639863219559028
+9,"Walking Upstairs","fBodyGyromeanY",-0.683924287600694
+9,"Walking Upstairs","fBodyGyromeanZ",-0.612680463163889
+9,"Walking Upstairs","fBodyGyrostdX",-0.690689895534722
+9,"Walking Upstairs","fBodyGyrostdY",-0.667203220760417
+9,"Walking Upstairs","fBodyGyrostdZ",-0.619468634127778
+9,"Walking Upstairs","tBodyAccJerkMagmean",-0.621608245092361
+9,"Walking Upstairs","tBodyAccJerkmeanX",0.0840171430291667
+9,"Walking Upstairs","tBodyAccJerkmeanY",0.00678485848399306
+9,"Walking Upstairs","tBodyAccJerkmeanZ",-0.00102998088194444
+9,"Walking Upstairs","tBodyAccJerkstdX",-0.578305161360069
+9,"Walking Upstairs","tBodyAccJerkstdY",-0.678923872274306
+9,"Walking Upstairs","tBodyAccJerkstdZ",-0.721610094569444
+9,"Walking Upstairs","tBodyAccMagmean",-0.505183470509188
+9,"Walking Upstairs","tBodyAccmeanX",0.270313841621528
+9,"Walking Upstairs","tBodyAccmeanY",-0.0209466555412396
+9,"Walking Upstairs","tBodyAccmeanZ",-0.101233826213889
+9,"Walking Upstairs","tBodyAccstdX",-0.555656544538194
+9,"Walking Upstairs","tBodyAccstdY",-0.5758878952125
+9,"Walking Upstairs","tBodyAccstdZ",-0.506111776081806
+9,"Walking Upstairs","tBodyGyroJerkMagmean",-0.7629795809375
+9,"Walking Upstairs","tBodyGyroJerkmeanX",-0.0892254930640278
+9,"Walking Upstairs","tBodyGyroJerkmeanY",-0.0397344421815972
+9,"Walking Upstairs","tBodyGyroJerkmeanZ",-0.053402884281875
+9,"Walking Upstairs","tBodyGyroJerkstdX",-0.7617108665625
+9,"Walking Upstairs","tBodyGyroJerkstdY",-0.773273878854167
+9,"Walking Upstairs","tBodyGyroJerkstdZ",-0.744656038298611
+9,"Walking Upstairs","tBodyGyroMagmean",-0.550201866572569
+9,"Walking Upstairs","tBodyGyromeanX",-0.0701318154561458
+9,"Walking Upstairs","tBodyGyromeanY",-0.0729884312991667
+9,"Walking Upstairs","tBodyGyromeanZ",0.109092913237986
+9,"Walking Upstairs","tBodyGyrostdX",-0.676452392569444
+9,"Walking Upstairs","tBodyGyrostdY",-0.670498220701389
+9,"Walking Upstairs","tBodyGyrostdZ",-0.587557692291458
+9,"Walking Upstairs","tGravityAccMagmean",-0.505183470509188
+9,"Walking Upstairs","tGravityAccmeanX",0.670845545555556
+9,"Walking Upstairs","tGravityAccmeanY",-0.0467446999509028
+9,"Walking Upstairs","tGravityAccmeanZ",0.104353653032743
+9,"Walking Upstairs","tGravityAccstdX",-0.958784666180556
+9,"Walking Upstairs","tGravityAccstdY",-0.949938115208333
+9,"Walking Upstairs","tGravityAccstdZ",-0.920554317815972
+10,"Walking Downstairs","fBodyAccJerkmeanX",-0.436761689484615
+10,"Walking Downstairs","fBodyAccJerkmeanY",-0.450402445118248
+10,"Walking Downstairs","fBodyAccJerkmeanZ",-0.654781895967094
+10,"Walking Downstairs","fBodyAccJerkstdX",-0.444119132470983
+10,"Walking Downstairs","fBodyAccJerkstdY",-0.451626571504701
+10,"Walking Downstairs","fBodyAccJerkstdZ",-0.726013573974359
+10,"Walking Downstairs","fBodyAccMagmean",-0.407807233704274
+10,"Walking Downstairs","fBodyAccmeanX",-0.418694276739316
+10,"Walking Downstairs","fBodyAccmeanY",-0.380394009936325
+10,"Walking Downstairs","fBodyAccmeanZ",-0.572754894505128
+10,"Walking Downstairs","fBodyAccstdX",-0.429098457335897
+10,"Walking Downstairs","fBodyAccstdY",-0.430554427691538
+10,"Walking Downstairs","fBodyAccstdZ",-0.537241875010256
+10,"Walking Downstairs","fBodyBodyAccJerkMagmean",-0.398398451363248
+10,"Walking Downstairs","fBodyBodyGyroJerkMagmean",-0.713252357820513
+10,"Walking Downstairs","fBodyBodyGyroMagmean",-0.585222602952991
+10,"Walking Downstairs","fBodyGyromeanX",-0.531727937426966
+10,"Walking Downstairs","fBodyGyromeanY",-0.564114631944444
+10,"Walking Downstairs","fBodyGyromeanZ",-0.467504644086325
+10,"Walking Downstairs","fBodyGyrostdX",-0.621040868816239
+10,"Walking Downstairs","fBodyGyrostdY",-0.460535897286325
+10,"Walking Downstairs","fBodyGyrostdZ",-0.565036981154701
+10,"Walking Downstairs","tBodyAccJerkMagmean",-0.474897326746876
+10,"Walking Downstairs","tBodyAccJerkmeanX",0.0804000423888889
+10,"Walking Downstairs","tBodyAccJerkmeanY",0.0153774046898718
+10,"Walking Downstairs","tBodyAccJerkmeanZ",-0.0143982101450427
+10,"Walking Downstairs","tBodyAccJerkstdX",-0.414395232038462
+10,"Walking Downstairs","tBodyAccJerkstdY",-0.431961308787137
+10,"Walking Downstairs","tBodyAccJerkstdZ",-0.690604755970085
+10,"Walking Downstairs","tBodyAccMagmean",-0.384739666615641
+10,"Walking Downstairs","tBodyAccmeanX",0.276238831213675
+10,"Walking Downstairs","tBodyAccmeanY",-0.0188857189162821
+10,"Walking Downstairs","tBodyAccmeanZ",-0.112087661002564
+10,"Walking Downstairs","tBodyAccstdX",-0.425216183982906
+10,"Walking Downstairs","tBodyAccstdY",-0.386704550776068
+10,"Walking Downstairs","tBodyAccstdZ",-0.523113372540812
+10,"Walking Downstairs","tBodyGyroJerkMagmean",-0.670402026880342
+10,"Walking Downstairs","tBodyGyroJerkmeanX",-0.11062834367265
+10,"Walking Downstairs","tBodyGyroJerkmeanY",-0.043380952132265
+10,"Walking Downstairs","tBodyGyroJerkmeanZ",-0.0554261378425641
+10,"Walking Downstairs","tBodyGyroJerkstdX",-0.632669178589744
+10,"Walking Downstairs","tBodyGyroJerkstdY",-0.713441119059829
+10,"Walking Downstairs","tBodyGyroJerkstdZ",-0.611026435705128
+10,"Walking Downstairs","tBodyGyroMagmean",-0.412441627912821
+10,"Walking Downstairs","tBodyGyromeanX",-0.0144658378235897
+10,"Walking Downstairs","tBodyGyromeanY",-0.0863038250719359
+10,"Walking Downstairs","tBodyGyromeanZ",0.089594378107906
+10,"Walking Downstairs","tBodyGyrostdX",-0.597873796746581
+10,"Walking Downstairs","tBodyGyrostdY",-0.492482432210256
+10,"Walking Downstairs","tBodyGyrostdZ",-0.505981516216239
+10,"Walking Downstairs","tGravityAccMagmean",-0.384739666615641
+10,"Walking Downstairs","tGravityAccmeanX",0.65835911957265
+10,"Walking Downstairs","tGravityAccmeanY",-0.165177771367521
+10,"Walking Downstairs","tGravityAccmeanZ",0.0307366662204145
+10,"Walking Downstairs","tGravityAccstdX",-0.964245853333333
+10,"Walking Downstairs","tGravityAccstdY",-0.95273087965812
+10,"Walking Downstairs","tGravityAccstdZ",-0.929729024405983
+10,"Walking Upstairs","fBodyAccJerkmeanX",-0.978120306166667
+10,"Walking Upstairs","fBodyAccJerkmeanY",-0.9634427765
+10,"Walking Upstairs","fBodyAccJerkmeanZ",-0.9826301395
+10,"Walking Upstairs","fBodyAccJerkstdX",-0.979612429166667
+10,"Walking Upstairs","fBodyAccJerkstdY",-0.964387826
+10,"Walking Upstairs","fBodyAccJerkstdZ",-0.9864711005
+10,"Walking Upstairs","fBodyAccMagmean",-0.951348618666667
+10,"Walking Upstairs","fBodyAccmeanX",-0.975310696833333
+10,"Walking Upstairs","fBodyAccmeanY",-0.940255585
+10,"Walking Upstairs","fBodyAccmeanZ",-0.976061050166667
+10,"Walking Upstairs","fBodyAccstdX",-0.978249844833333
+10,"Walking Upstairs","fBodyAccstdY",-0.928300078783333
+10,"Walking Upstairs","fBodyAccstdZ",-0.971528370666667
+10,"Walking Upstairs","fBodyBodyAccJerkMagmean",-0.970436012833333
+10,"Walking Upstairs","fBodyBodyGyroJerkMagmean",-0.980438270333333
+10,"Walking Upstairs","fBodyBodyGyroMagmean",-0.958964957333333
+10,"Walking Upstairs","fBodyGyromeanX",-0.9661191675
+10,"Walking Upstairs","fBodyGyromeanY",-0.976870853
+10,"Walking Upstairs","fBodyGyromeanZ",-0.9572695305
+10,"Walking Upstairs","fBodyGyrostdX",-0.971946495
+10,"Walking Upstairs","fBodyGyrostdY",-0.977034021833333
+10,"Walking Upstairs","fBodyGyrostdZ",-0.961499603833333
+10,"Walking Upstairs","tBodyAccJerkMagmean",-0.978933889
+10,"Walking Upstairs","tBodyAccJerkmeanX",0.0775130550833333
+10,"Walking Upstairs","tBodyAccJerkmeanY",0.00330831786383333
+10,"Walking Upstairs","tBodyAccJerkmeanZ",0.000510105274833334
+10,"Walking Upstairs","tBodyAccJerkstdX",-0.977836345
+10,"Walking Upstairs","tBodyAccJerkstdY",-0.962510329833333
+10,"Walking Upstairs","tBodyAccJerkstdZ",-0.9852148295
+10,"Walking Upstairs","tBodyAccMagmean",-0.9617663145
+10,"Walking Upstairs","tBodyAccmeanX",0.2792260805
+10,"Walking Upstairs","tBodyAccmeanY",-0.0137410699333333
+10,"Walking Upstairs","tBodyAccmeanZ",-0.1082356298
+10,"Walking Upstairs","tBodyAccstdX",-0.976914667166667
+10,"Walking Upstairs","tBodyAccstdY",-0.929141091633333
+10,"Walking Upstairs","tBodyAccstdZ",-0.972264913
+10,"Walking Upstairs","tBodyGyroJerkMagmean",-0.984314541333333
+10,"Walking Upstairs","tBodyGyroJerkmeanX",-0.0984885261
+10,"Walking Upstairs","tBodyGyroJerkmeanY",-0.0386820786833333
+10,"Walking Upstairs","tBodyGyroJerkmeanZ",-0.0560434883966667
+10,"Walking Upstairs","tBodyGyroJerkstdX",-0.978483352166667
+10,"Walking Upstairs","tBodyGyroJerkstdY",-0.983924353
+10,"Walking Upstairs","tBodyGyroJerkstdZ",-0.982318139166667
+10,"Walking Upstairs","tBodyGyroMagmean",-0.948394682666667
+10,"Walking Upstairs","tBodyGyromeanX",-0.0342448434966667
+10,"Walking Upstairs","tBodyGyromeanY",-0.078152882769
+10,"Walking Upstairs","tBodyGyromeanZ",0.0966117812
+10,"Walking Upstairs","tBodyGyrostdX",-0.970429545833333
+10,"Walking Upstairs","tBodyGyrostdY",-0.976850974833333
+10,"Walking Upstairs","tBodyGyrostdZ",-0.957569497
+10,"Walking Upstairs","tGravityAccMagmean",-0.9617663145
+10,"Walking Upstairs","tGravityAccmeanX",0.582637512166667
+10,"Walking Upstairs","tGravityAccmeanY",0.2814715215
+10,"Walking Upstairs","tGravityAccmeanZ",0.1506301434
+10,"Walking Upstairs","tGravityAccstdX",-0.9719009915
+10,"Walking Upstairs","tGravityAccstdY",-0.961517524833333
+10,"Walking Upstairs","tGravityAccstdZ",-0.973718302333333
+11,"Walking Upstairs","fBodyAccJerkmeanX",-0.676672987166456
+11,"Walking Upstairs","fBodyAccJerkmeanY",-0.632374688606013
+11,"Walking Upstairs","fBodyAccJerkmeanZ",-0.825559590221519
+11,"Walking Upstairs","fBodyAccJerkstdX",-0.672195644346519
+11,"Walking Upstairs","fBodyAccJerkstdY",-0.609444998247785
+11,"Walking Upstairs","fBodyAccJerkstdZ",-0.858259630601266
+11,"Walking Upstairs","fBodyAccMagmean",-0.611528074359177
+11,"Walking Upstairs","fBodyAccmeanX",-0.619524028324684
+11,"Walking Upstairs","fBodyAccmeanY",-0.531455265662532
+11,"Walking Upstairs","fBodyAccmeanZ",-0.750026145791139
+11,"Walking Upstairs","fBodyAccstdX",-0.579491754749367
+11,"Walking Upstairs","fBodyAccstdY",-0.502570240243354
+11,"Walking Upstairs","fBodyAccstdZ",-0.652095671108544
+11,"Walking Upstairs","fBodyBodyAccJerkMagmean",-0.656133473274684
+11,"Walking Upstairs","fBodyBodyGyroJerkMagmean",-0.864827011392405
+11,"Walking Upstairs","fBodyBodyGyroMagmean",-0.757585939588608
+11,"Walking Upstairs","fBodyGyromeanX",-0.709949332117089
+11,"Walking Upstairs","fBodyGyromeanY",-0.776852868955696
+11,"Walking Upstairs","fBodyGyromeanZ",-0.708842979272152
+11,"Walking Upstairs","fBodyGyrostdX",-0.751758277167721
+11,"Walking Upstairs","fBodyGyrostdY",-0.670892713066772
+11,"Walking Upstairs","fBodyGyrostdZ",-0.75596062835443
+11,"Walking Upstairs","tBodyAccJerkMagmean",-0.679819504547468
+11,"Walking Upstairs","tBodyAccJerkmeanX",0.0830134540658228
+11,"Walking Upstairs","tBodyAccJerkmeanY",0.0078044254343038
+11,"Walking Upstairs","tBodyAccJerkmeanZ",-0.00657424975259494
+11,"Walking Upstairs","tBodyAccJerkstdX",-0.659323083055063
+11,"Walking Upstairs","tBodyAccJerkstdY",-0.608784226719937
+11,"Walking Upstairs","tBodyAccJerkstdZ",-0.842511816044304
+11,"Walking Upstairs","tBodyAccMagmean",-0.542825032813608
+11,"Walking Upstairs","tBodyAccmeanX",0.27658531139557
+11,"Walking Upstairs","tBodyAccmeanY",-0.0191272531933228
+11,"Walking Upstairs","tBodyAccmeanZ",-0.108941761642405
+11,"Walking Upstairs","tBodyAccstdX",-0.58947649779557
+11,"Walking Upstairs","tBodyAccstdY",-0.490379346996835
+11,"Walking Upstairs","tBodyAccstdZ",-0.665324314227848
+11,"Walking Upstairs","tBodyGyroJerkMagmean",-0.826829028481013
+11,"Walking Upstairs","tBodyGyroJerkmeanX",-0.0805473309873418
+11,"Walking Upstairs","tBodyGyroJerkmeanY",-0.0493914065474684
+11,"Walking Upstairs","tBodyGyroJerkmeanZ",-0.0480140167267405
+11,"Walking Upstairs","tBodyGyroJerkstdX",-0.781738140601266
+11,"Walking Upstairs","tBodyGyroJerkstdY",-0.868377254082279
+11,"Walking Upstairs","tBodyGyroJerkstdZ",-0.795490882468354
+11,"Walking Upstairs","tBodyGyroMagmean",-0.628367851066456
+11,"Walking Upstairs","tBodyGyromeanX",-0.0547328440272468
+11,"Walking Upstairs","tBodyGyromeanY",-0.0582275770813291
+11,"Walking Upstairs","tBodyGyromeanZ",0.087284109682356
+11,"Walking Upstairs","tBodyGyrostdX",-0.739922126628797
+11,"Walking Upstairs","tBodyGyrostdY",-0.703501766487342
+11,"Walking Upstairs","tBodyGyrostdZ",-0.725016008797468
+11,"Walking Upstairs","tGravityAccMagmean",-0.542825032813608
+11,"Walking Upstairs","tGravityAccmeanX",0.730526184936709
+11,"Walking Upstairs","tGravityAccmeanY",0.0527387028613924
+11,"Walking Upstairs","tGravityAccmeanZ",0.140209861246835
+11,"Walking Upstairs","tGravityAccstdX",-0.975394457689873
+11,"Walking Upstairs","tGravityAccstdY",-0.957138770727848
+11,"Walking Upstairs","tGravityAccstdZ",-0.956812000411392
+12,"Sitting","fBodyAccJerkmeanX",-0.51464202580597
+12,"Sitting","fBodyAccJerkmeanY",-0.471744804389552
+12,"Sitting","fBodyAccJerkmeanZ",-0.799284140671642
+12,"Sitting","fBodyAccJerkstdX",-0.505745022388806
+12,"Sitting","fBodyAccJerkstdY",-0.447339284527239
+12,"Sitting","fBodyAccJerkstdZ",-0.825620583955224
+12,"Sitting","fBodyAccMagmean",-0.47792395599403
+12,"Sitting","fBodyAccmeanX",-0.498119157841045
+12,"Sitting","fBodyAccmeanY",-0.392694131024627
+12,"Sitting","fBodyAccmeanZ",-0.75610207
+12,"Sitting","fBodyAccstdX",-0.514152324191791
+12,"Sitting","fBodyAccstdY",-0.444910001659702
+12,"Sitting","fBodyAccstdZ",-0.728469606492537
+12,"Sitting","fBodyBodyAccJerkMagmean",-0.461153229439552
+12,"Sitting","fBodyBodyGyroJerkMagmean",-0.749207546626866
+12,"Sitting","fBodyBodyGyroMagmean",-0.669095112974627
+12,"Sitting","fBodyGyromeanX",-0.585669505506716
+12,"Sitting","fBodyGyromeanY",-0.708184516268657
+12,"Sitting","fBodyGyromeanZ",-0.64488048111194
+12,"Sitting","fBodyGyrostdX",-0.707831066395522
+12,"Sitting","fBodyGyrostdY",-0.669622323059701
+12,"Sitting","fBodyGyrostdZ",-0.748431752686567
+12,"Sitting","tBodyAccJerkMagmean",-0.553813266144776
+12,"Sitting","tBodyAccJerkmeanX",0.0572366455208955
+12,"Sitting","tBodyAccJerkmeanY",0.010632586489403
+12,"Sitting","tBodyAccJerkmeanZ",0.0155338481445373
+12,"Sitting","tBodyAccJerkstdX",-0.487513853589552
+12,"Sitting","tBodyAccJerkstdY",-0.441798499370224
+12,"Sitting","tBodyAccJerkstdZ",-0.813044700746269
+12,"Sitting","tBodyAccMagmean",-0.485419876919403
+12,"Sitting","tBodyAccmeanX",0.275639357761194
+12,"Sitting","tBodyAccmeanY",-0.0184861388459702
+12,"Sitting","tBodyAccmeanZ",-0.107917262447761
+12,"Sitting","tBodyAccstdX",-0.508665196767164
+12,"Sitting","tBodyAccstdY",-0.401357613464179
+12,"Sitting","tBodyAccstdZ",-0.722443639029851
+12,"Sitting","tBodyGyroJerkMagmean",-0.735015701865672
+12,"Sitting","tBodyGyroJerkmeanX",-0.0726924262059701
+12,"Sitting","tBodyGyroJerkmeanY",-0.0457374795179104
+12,"Sitting","tBodyGyroJerkmeanZ",-0.0515110922703731
+12,"Sitting","tBodyGyroJerkstdX",-0.623189590291045
+12,"Sitting","tBodyGyroJerkstdY",-0.786312781716418
+12,"Sitting","tBodyGyroJerkstdZ",-0.71311417830597
+12,"Sitting","tBodyGyroMagmean",-0.585957269414925
+12,"Sitting","tBodyGyromeanX",-0.0702784362985075
+12,"Sitting","tBodyGyromeanY",-0.0422418424895522
+12,"Sitting","tBodyGyromeanZ",0.089311570049403
+12,"Sitting","tBodyGyrostdX",-0.677307561997761
+12,"Sitting","tBodyGyrostdY",-0.680398804104478
+12,"Sitting","tBodyGyrostdZ",-0.699245741395522
+12,"Sitting","tGravityAccMagmean",-0.485419876919403
+12,"Sitting","tGravityAccmeanX",0.629964778955224
+12,"Sitting","tGravityAccmeanY",0.112652596558955
+12,"Sitting","tGravityAccmeanZ",-0.0494520137037313
+12,"Sitting","tGravityAccstdX",-0.973039656865672
+12,"Sitting","tGravityAccstdY",-0.961684570149254
+12,"Sitting","tGravityAccstdZ",-0.956887170522388
+12,"Walking Downstairs","fBodyAccJerkmeanX",-0.659962097978441
+12,"Walking Downstairs","fBodyAccJerkmeanY",-0.677425008402742
+12,"Walking Downstairs","fBodyAccJerkmeanZ",-0.758238879408602
+12,"Walking Downstairs","fBodyAccJerkstdX",-0.67299670577957
+12,"Walking Downstairs","fBodyAccJerkstdY",-0.674141468072581
+12,"Walking Downstairs","fBodyAccJerkstdZ",-0.796308612258064
+12,"Walking Downstairs","fBodyAccMagmean",-0.617897670354839
+12,"Walking Downstairs","fBodyAccmeanX",-0.637131722208064
+12,"Walking Downstairs","fBodyAccmeanY",-0.617370170090323
+12,"Walking Downstairs","fBodyAccmeanZ",-0.705415178817204
+12,"Walking Downstairs","fBodyAccstdX",-0.639348459586021
+12,"Walking Downstairs","fBodyAccstdY",-0.63100314140914
+12,"Walking Downstairs","fBodyAccstdZ",-0.696665096612903
+12,"Walking Downstairs","fBodyBodyAccJerkMagmean",-0.638505427183871
+12,"Walking Downstairs","fBodyBodyGyroJerkMagmean",-0.819220973494624
+12,"Walking Downstairs","fBodyBodyGyroMagmean",-0.752048340967742
+12,"Walking Downstairs","fBodyGyromeanX",-0.71569500327957
+12,"Walking Downstairs","fBodyGyromeanY",-0.771175710268817
+12,"Walking Downstairs","fBodyGyromeanZ",-0.666367678483871
+12,"Walking Downstairs","fBodyGyrostdX",-0.781057375053763
+12,"Walking Downstairs","fBodyGyrostdY",-0.779444961236559
+12,"Walking Downstairs","fBodyGyrostdZ",-0.679272873655914
+12,"Walking Downstairs","tBodyAccJerkMagmean",-0.684974084575269
+12,"Walking Downstairs","tBodyAccJerkmeanX",0.0799354253827957
+12,"Walking Downstairs","tBodyAccJerkmeanY",0.00147809411698925
+12,"Walking Downstairs","tBodyAccJerkmeanZ",-0.0106609660939785
+12,"Walking Downstairs","tBodyAccJerkstdX",-0.650790264784946
+12,"Walking Downstairs","tBodyAccJerkstdY",-0.664699691132473
+12,"Walking Downstairs","tBodyAccJerkstdZ",-0.777908761827957
+12,"Walking Downstairs","tBodyAccMagmean",-0.613018446822043
+12,"Walking Downstairs","tBodyAccmeanX",0.272145794677419
+12,"Walking Downstairs","tBodyAccmeanY",-0.0182299075608413
+12,"Walking Downstairs","tBodyAccmeanZ",-0.105735506451613
+12,"Walking Downstairs","tBodyAccstdX",-0.638208440290323
+12,"Walking Downstairs","tBodyAccstdY",-0.608983265026882
+12,"Walking Downstairs","tBodyAccstdZ",-0.682615496811828
+12,"Walking Downstairs","tBodyGyroJerkMagmean",-0.807753381612903
+12,"Walking Downstairs","tBodyGyroJerkmeanX",-0.073416747110215
+12,"Walking Downstairs","tBodyGyroJerkmeanY",-0.0421957057096774
+12,"Walking Downstairs","tBodyGyroJerkmeanZ",-0.0617431983833333
+12,"Walking Downstairs","tBodyGyroJerkstdX",-0.772069692150538
+12,"Walking Downstairs","tBodyGyroJerkstdY",-0.829185586182796
+12,"Walking Downstairs","tBodyGyroJerkstdZ",-0.775458577365591
+12,"Walking Downstairs","tBodyGyroMagmean",-0.66459948788172
+12,"Walking Downstairs","tBodyGyromeanX",-0.0575264551461828
+12,"Walking Downstairs","tBodyGyromeanY",-0.0714218698580645
+12,"Walking Downstairs","tBodyGyromeanZ",0.100946227484946
+12,"Walking Downstairs","tBodyGyrostdX",-0.764316840252151
+12,"Walking Downstairs","tBodyGyrostdY",-0.774444433548387
+12,"Walking Downstairs","tBodyGyrostdZ",-0.650750149365591
+12,"Walking Downstairs","tGravityAccMagmean",-0.613018446822043
+12,"Walking Downstairs","tGravityAccmeanX",0.749117763666667
+12,"Walking Downstairs","tGravityAccmeanY",-0.0295853747510753
+12,"Walking Downstairs","tGravityAccmeanZ",0.0924517595346237
+12,"Walking Downstairs","tGravityAccstdX",-0.96330852155914
+12,"Walking Downstairs","tGravityAccstdY",-0.959772033870968
+12,"Walking Downstairs","tGravityAccstdZ",-0.93954763188172
+13,"Sitting","fBodyAccJerkmeanX",-0.66008217407156
+13,"Sitting","fBodyAccJerkmeanY",-0.603340489937615
+13,"Sitting","fBodyAccJerkmeanZ",-0.710831730361468
+13,"Sitting","fBodyAccJerkstdX",-0.649606227431844
+13,"Sitting","fBodyAccJerkstdY",-0.562129866937645
+13,"Sitting","fBodyAccJerkstdZ",-0.744823539571865
+13,"Sitting","fBodyAccMagmean",-0.589928108599083
+13,"Sitting","fBodyAccmeanX",-0.638817912651682
+13,"Sitting","fBodyAccmeanY",-0.493467193137125
+13,"Sitting","fBodyAccmeanZ",-0.629736258731804
+13,"Sitting","fBodyAccstdX",-0.620602036452599
+13,"Sitting","fBodyAccstdY",-0.462584458627829
+13,"Sitting","fBodyAccstdZ",-0.599036895271407
+13,"Sitting","fBodyBodyAccJerkMagmean",-0.607295296423853
+13,"Sitting","fBodyBodyGyroJerkMagmean",-0.712054366504281
+13,"Sitting","fBodyBodyGyroMagmean",-0.652225306544343
+13,"Sitting","fBodyGyromeanX",-0.65864242140581
+13,"Sitting","fBodyGyromeanY",-0.647152817899388
+13,"Sitting","fBodyGyromeanZ",-0.620471226529052
+13,"Sitting","fBodyGyrostdX",-0.734657989051988
+13,"Sitting","fBodyGyrostdY",-0.650623558847401
+13,"Sitting","fBodyGyrostdZ",-0.685774481529052
+13,"Sitting","tBodyAccJerkMagmean",-0.625466938809174
+13,"Sitting","tBodyAccJerkmeanX",0.0794393034550306
+13,"Sitting","tBodyAccJerkmeanY",0.00387961953328135
+13,"Sitting","tBodyAccJerkmeanZ",-0.0123485923641621
+13,"Sitting","tBodyAccJerkstdX",-0.638889532599083
+13,"Sitting","tBodyAccJerkstdY",-0.569700547488012
+13,"Sitting","tBodyAccJerkstdZ",-0.728452966311927
+13,"Sitting","tBodyAccMagmean",-0.539871637249541
+13,"Sitting","tBodyAccmeanX",0.275895876198777
+13,"Sitting","tBodyAccmeanY",-0.0176504796070948
+13,"Sitting","tBodyAccmeanZ",-0.109135285550765
+13,"Sitting","tBodyAccstdX",-0.624844460199083
+13,"Sitting","tBodyAccstdY",-0.448816097853364
+13,"Sitting","tBodyAccstdZ",-0.587230562129052
+13,"Sitting","tBodyGyroJerkMagmean",-0.712745036012232
+13,"Sitting","tBodyGyroJerkmeanX",-0.0881182379434251
+13,"Sitting","tBodyGyroJerkmeanY",-0.0440836605146789
+13,"Sitting","tBodyGyroJerkmeanZ",-0.0582718748712538
+13,"Sitting","tBodyGyroJerkstdX",-0.715772980189602
+13,"Sitting","tBodyGyroJerkstdY",-0.718988591831804
+13,"Sitting","tBodyGyroJerkstdZ",-0.712716428498471
+13,"Sitting","tBodyGyroMagmean",-0.581215403184709
+13,"Sitting","tBodyGyromeanX",-0.0562470618980061
+13,"Sitting","tBodyGyromeanY",-0.0616613787494801
+13,"Sitting","tBodyGyromeanZ",0.098866059686422
+13,"Sitting","tBodyGyrostdX",-0.715109859672783
+13,"Sitting","tBodyGyrostdY",-0.645728612088685
+13,"Sitting","tBodyGyrostdZ",-0.643337285033639
+13,"Sitting","tGravityAccMagmean",-0.539871637249541
+13,"Sitting","tGravityAccmeanX",0.709996516908257
+13,"Sitting","tGravityAccmeanY",-0.0420858101162079
+13,"Sitting","tGravityAccmeanZ",0.0443010536786239
+13,"Sitting","tGravityAccstdX",-0.967268063455658
+13,"Sitting","tGravityAccstdY",-0.953540716850153
+13,"Sitting","tGravityAccstdZ",-0.938727880275229
+14,"Walking Downstairs","fBodyAccJerkmeanX",-0.547228392966803
+14,"Walking Downstairs","fBodyAccJerkmeanY",-0.475602672016393
+14,"Walking Downstairs","fBodyAccJerkmeanZ",-0.502642372690574
+14,"Walking Downstairs","fBodyAccJerkstdX",-0.556172286909426
+14,"Walking Downstairs","fBodyAccJerkstdY",-0.479636522397131
+14,"Walking Downstairs","fBodyAccJerkstdZ",-0.601003772988115
+14,"Walking Downstairs","fBodyAccMagmean",-0.33954605254918
+14,"Walking Downstairs","fBodyAccmeanX",-0.503578578393852
+14,"Walking Downstairs","fBodyAccmeanY",-0.292774738243033
+14,"Walking Downstairs","fBodyAccmeanZ",-0.272591149659836
+14,"Walking Downstairs","fBodyAccstdX",-0.491090578268648
+14,"Walking Downstairs","fBodyAccstdY",-0.194161740892213
+14,"Walking Downstairs","fBodyAccstdZ",-0.0598352898007787
+14,"Walking Downstairs","fBodyBodyAccJerkMagmean",-0.472519023106762
+14,"Walking Downstairs","fBodyBodyGyroJerkMagmean",-0.632288075747377
+14,"Walking Downstairs","fBodyBodyGyroMagmean",-0.408328310255328
+14,"Walking Downstairs","fBodyGyromeanX",-0.6115221855
+14,"Walking Downstairs","fBodyGyromeanY",-0.355248774921516
+14,"Walking Downstairs","fBodyGyromeanZ",-0.247597875968033
+14,"Walking Downstairs","fBodyGyrostdX",-0.66393820870082
+14,"Walking Downstairs","fBodyGyrostdY",-0.15091173901873
+14,"Walking Downstairs","fBodyGyrostdZ",-0.225729073181148
+14,"Walking Downstairs","tBodyAccJerkMagmean",-0.487984706926639
+14,"Walking Downstairs","tBodyAccJerkmeanX",0.0731636526834836
+14,"Walking Downstairs","tBodyAccJerkmeanY",0.00468680247090164
+14,"Walking Downstairs","tBodyAccJerkmeanZ",-0.00109705214282787
+14,"Walking Downstairs","tBodyAccJerkstdX",-0.530799952657623
+14,"Walking Downstairs","tBodyAccJerkstdY",-0.459397679983197
+14,"Walking Downstairs","tBodyAccJerkstdZ",-0.552000017954836
+14,"Walking Downstairs","tBodyAccMagmean",-0.29092762277541
+14,"Walking Downstairs","tBodyAccmeanX",0.268742494553279
+14,"Walking Downstairs","tBodyAccmeanY",-0.0166371300659426
+14,"Walking Downstairs","tBodyAccmeanZ",-0.0996007059877049
+14,"Walking Downstairs","tBodyAccstdX",-0.493875900753279
+14,"Walking Downstairs","tBodyAccstdY",-0.190356784144426
+14,"Walking Downstairs","tBodyAccstdZ",-0.0829789883191393
+14,"Walking Downstairs","tBodyGyroJerkMagmean",-0.608256767676639
+14,"Walking Downstairs","tBodyGyroJerkmeanX",-0.109826852532898
+14,"Walking Downstairs","tBodyGyroJerkmeanY",-0.0439177837856107
+14,"Walking Downstairs","tBodyGyroJerkmeanZ",-0.0418610459717213
+14,"Walking Downstairs","tBodyGyroJerkstdX",-0.723150613606557
+14,"Walking Downstairs","tBodyGyroJerkstdY",-0.60583333504918
+14,"Walking Downstairs","tBodyGyroJerkstdZ",-0.525451416913115
+14,"Walking Downstairs","tBodyGyroMagmean",-0.245124405807746
+14,"Walking Downstairs","tBodyGyromeanX",0.00779788388987705
+14,"Walking Downstairs","tBodyGyromeanY",-0.101356256508197
+14,"Walking Downstairs","tBodyGyromeanZ",0.0483130820040984
+14,"Walking Downstairs","tBodyGyrostdX",-0.649305014086066
+14,"Walking Downstairs","tBodyGyrostdY",-0.216650778374795
+14,"Walking Downstairs","tBodyGyrostdZ",-0.16936650962377
+14,"Walking Downstairs","tGravityAccMagmean",-0.29092762277541
+14,"Walking Downstairs","tGravityAccmeanX",0.695710723688525
+14,"Walking Downstairs","tGravityAccmeanY",-0.165548427598361
+14,"Walking Downstairs","tGravityAccmeanZ",-0.255499121995902
+14,"Walking Downstairs","tGravityAccstdX",-0.933986522704918
+14,"Walking Downstairs","tGravityAccstdY",-0.934878446827869
+14,"Walking Downstairs","tGravityAccstdZ",-0.903959498688525
+14,"Walking Upstairs","fBodyAccJerkmeanX",-0.985349748734177
+14,"Walking Upstairs","fBodyAccJerkmeanY",-0.978897426202532
+14,"Walking Upstairs","fBodyAccJerkmeanZ",-0.97720619556962
+14,"Walking Upstairs","fBodyAccJerkstdX",-0.986653889746835
+14,"Walking Upstairs","fBodyAccJerkstdY",-0.980582625189873
+14,"Walking Upstairs","fBodyAccJerkstdZ",-0.982966496835443
+14,"Walking Upstairs","fBodyAccMagmean",-0.958267383037975
+14,"Walking Upstairs","fBodyAccmeanX",-0.977590046582278
+14,"Walking Upstairs","fBodyAccmeanY",-0.957021698227848
+14,"Walking Upstairs","fBodyAccmeanZ",-0.959720590506329
+14,"Walking Upstairs","fBodyAccstdX",-0.974837439746835
+14,"Walking Upstairs","fBodyAccstdY",-0.941020529113924
+14,"Walking Upstairs","fBodyAccstdZ",-0.939615462658228
+14,"Walking Upstairs","fBodyBodyAccJerkMagmean",-0.981048938227848
+14,"Walking Upstairs","fBodyBodyGyroJerkMagmean",-0.981054587341772
+14,"Walking Upstairs","fBodyBodyGyroMagmean",-0.959072824810127
+14,"Walking Upstairs","fBodyGyromeanX",-0.969864989620253
+14,"Walking Upstairs","fBodyGyromeanY",-0.966022947974684
+14,"Walking Upstairs","fBodyGyromeanZ",-0.968502550759494
+14,"Walking Upstairs","fBodyGyrostdX",-0.975138491898734
+14,"Walking Upstairs","fBodyGyrostdY",-0.96026162278481
+14,"Walking Upstairs","fBodyGyrostdZ",-0.969622702911392
+14,"Walking Upstairs","tBodyAccJerkMagmean",-0.982660079367089
+14,"Walking Upstairs","tBodyAccJerkmeanX",0.0773017082381013
+14,"Walking Upstairs","tBodyAccJerkmeanY",0.0036647518358481
+14,"Walking Upstairs","tBodyAccJerkmeanZ",-0.0069576409346962
+14,"Walking Upstairs","tBodyAccJerkstdX",-0.985306933037975
+14,"Walking Upstairs","tBodyAccJerkstdY",-0.978904104303797
+14,"Walking Upstairs","tBodyAccJerkstdZ",-0.980713290253165
+14,"Walking Upstairs","tBodyAccMagmean",-0.954651726708861
+14,"Walking Upstairs","tBodyAccmeanX",0.274638681518987
+14,"Walking Upstairs","tBodyAccmeanY",-0.0150740054405063
+14,"Walking Upstairs","tBodyAccmeanZ",-0.105264366677722
+14,"Walking Upstairs","tBodyAccstdX",-0.975494321518987
+14,"Walking Upstairs","tBodyAccstdY",-0.944189643417721
+14,"Walking Upstairs","tBodyAccstdZ",-0.943891439113924
+14,"Walking Upstairs","tBodyGyroJerkMagmean",-0.98548876278481
+14,"Walking Upstairs","tBodyGyroJerkmeanX",-0.100542747126582
+14,"Walking Upstairs","tBodyGyroJerkmeanY",-0.0414738805316456
+14,"Walking Upstairs","tBodyGyroJerkmeanZ",-0.054978679931519
+14,"Walking Upstairs","tBodyGyroJerkstdX",-0.981309872025316
+14,"Walking Upstairs","tBodyGyroJerkstdY",-0.982321302658228
+14,"Walking Upstairs","tBodyGyroJerkstdZ",-0.986841167088608
+14,"Walking Upstairs","tBodyGyroMagmean",-0.945647504556962
+14,"Walking Upstairs","tBodyGyromeanX",-0.023047440764557
+14,"Walking Upstairs","tBodyGyromeanY",-0.0773800849721519
+14,"Walking Upstairs","tBodyGyromeanZ",0.0988407598607595
+14,"Walking Upstairs","tBodyGyrostdX",-0.973762051772152
+14,"Walking Upstairs","tBodyGyrostdY",-0.962039041139241
+14,"Walking Upstairs","tBodyGyrostdZ",-0.967101618101266
+14,"Walking Upstairs","tGravityAccMagmean",-0.954651726708861
+14,"Walking Upstairs","tGravityAccmeanX",0.599098975405063
+14,"Walking Upstairs","tGravityAccmeanY",0.0546109842746835
+14,"Walking Upstairs","tGravityAccmeanZ",0.130135867455696
+14,"Walking Upstairs","tGravityAccstdX",-0.963666510379747
+14,"Walking Upstairs","tGravityAccstdY",-0.965538336582279
+14,"Walking Upstairs","tGravityAccstdZ",-0.952893375063291
+15,"Walking Downstairs","fBodyAccJerkmeanX",-0.643469519361585
+15,"Walking Downstairs","fBodyAccJerkmeanY",-0.609408057377744
+15,"Walking Downstairs","fBodyAccJerkmeanZ",-0.805543465588415
+15,"Walking Downstairs","fBodyAccJerkstdX",-0.637655155092835
+15,"Walking Downstairs","fBodyAccJerkstdY",-0.605854882622652
+15,"Walking Downstairs","fBodyAccJerkstdZ",-0.845111060762195
+15,"Walking Downstairs","fBodyAccMagmean",-0.562948391223628
+15,"Walking Downstairs","fBodyAccmeanX",-0.583772317445122
+15,"Walking Downstairs","fBodyAccmeanY",-0.507735205778384
+15,"Walking Downstairs","fBodyAccmeanZ",-0.741745724698171
+15,"Walking Downstairs","fBodyAccstdX",-0.547150855443902
+15,"Walking Downstairs","fBodyAccstdY",-0.501568435233384
+15,"Walking Downstairs","fBodyAccstdZ",-0.711431340356707
+15,"Walking Downstairs","fBodyBodyAccJerkMagmean",-0.614817605125915
+15,"Walking Downstairs","fBodyBodyGyroJerkMagmean",-0.83680189402439
+15,"Walking Downstairs","fBodyBodyGyroMagmean",-0.732394493841463
+15,"Walking Downstairs","fBodyGyromeanX",-0.664354428856402
+15,"Walking Downstairs","fBodyGyromeanY",-0.760711411006098
+15,"Walking Downstairs","fBodyGyromeanZ",-0.711194539920732
+15,"Walking Downstairs","fBodyGyrostdX",-0.709336168176829
+15,"Walking Downstairs","fBodyGyrostdY",-0.684504735744512
+15,"Walking Downstairs","fBodyGyrostdZ",-0.751696527195122
+15,"Walking Downstairs","tBodyAccJerkMagmean",-0.654799694757531
+15,"Walking Downstairs","tBodyAccJerkmeanX",0.0776897411304878
+15,"Walking Downstairs","tBodyAccJerkmeanY",0.00489392052706402
+15,"Walking Downstairs","tBodyAccJerkmeanZ",-0.00440993190077744
+15,"Walking Downstairs","tBodyAccJerkstdX",-0.624055782158537
+15,"Walking Downstairs","tBodyAccJerkstdY",-0.594312678045091
+15,"Walking Downstairs","tBodyAccJerkstdZ",-0.825820881576219
+15,"Walking Downstairs","tBodyAccMagmean",-0.527285352000488
+15,"Walking Downstairs","tBodyAccmeanX",0.27821340725
+15,"Walking Downstairs","tBodyAccmeanY",-0.016464484771311
+15,"Walking Downstairs","tBodyAccmeanZ",-0.112563587594512
+15,"Walking Downstairs","tBodyAccstdX",-0.556541173089329
+15,"Walking Downstairs","tBodyAccstdY",-0.481679537956006
+15,"Walking Downstairs","tBodyAccstdZ",-0.705706623868902
+15,"Walking Downstairs","tBodyGyroJerkMagmean",-0.805282669512195
+15,"Walking Downstairs","tBodyGyroJerkmeanX",-0.0960910108539634
+15,"Walking Downstairs","tBodyGyroJerkmeanY",-0.0441270690182012
+15,"Walking Downstairs","tBodyGyroJerkmeanZ",-0.0555645456881098
+15,"Walking Downstairs","tBodyGyroJerkstdX",-0.731382711036585
+15,"Walking Downstairs","tBodyGyroJerkstdY",-0.853956592073171
+15,"Walking Downstairs","tBodyGyroJerkstdZ",-0.795626198384146
+15,"Walking Downstairs","tBodyGyroMagmean",-0.617721779796037
+15,"Walking Downstairs","tBodyGyromeanX",-0.0281278780610671
+15,"Walking Downstairs","tBodyGyromeanY",-0.075878845519878
+15,"Walking Downstairs","tBodyGyromeanZ",0.0906658516
+15,"Walking Downstairs","tBodyGyrostdX",-0.696859473045732
+15,"Walking Downstairs","tBodyGyrostdY",-0.708779069191463
+15,"Walking Downstairs","tBodyGyrostdZ",-0.721826987530488
+15,"Walking Downstairs","tGravityAccMagmean",-0.527285352000488
+15,"Walking Downstairs","tGravityAccmeanX",0.688872511512195
+15,"Walking Downstairs","tGravityAccmeanY",0.102660491875
+15,"Walking Downstairs","tGravityAccmeanZ",0.0372897701757012
+15,"Walking Downstairs","tGravityAccstdX",-0.968733398628049
+15,"Walking Downstairs","tGravityAccstdY",-0.956369493993902
+15,"Walking Downstairs","tGravityAccstdZ",-0.947240058048781
+16,"Walking Downstairs","fBodyAccJerkmeanX",-0.744662041612022
+16,"Walking Downstairs","fBodyAccJerkmeanY",-0.748627001551913
+16,"Walking Downstairs","fBodyAccJerkmeanZ",-0.752302172079235
+16,"Walking Downstairs","fBodyAccJerkstdX",-0.73477673661306
+16,"Walking Downstairs","fBodyAccJerkstdY",-0.738434398105465
+16,"Walking Downstairs","fBodyAccJerkstdZ",-0.782089515344262
+16,"Walking Downstairs","fBodyAccMagmean",-0.666962508246721
+16,"Walking Downstairs","fBodyAccmeanX",-0.700885147341803
+16,"Walking Downstairs","fBodyAccmeanY",-0.671572147098798
+16,"Walking Downstairs","fBodyAccmeanZ",-0.660989948160437
+16,"Walking Downstairs","fBodyAccstdX",-0.656969045058415
+16,"Walking Downstairs","fBodyAccstdY",-0.661844530506831
+16,"Walking Downstairs","fBodyAccstdZ",-0.605646725307104
+16,"Walking Downstairs","fBodyBodyAccJerkMagmean",-0.713167613706148
+16,"Walking Downstairs","fBodyBodyGyroJerkMagmean",-0.87277228273224
+16,"Walking Downstairs","fBodyBodyGyroMagmean",-0.81712881920765
+16,"Walking Downstairs","fBodyGyromeanX",-0.789780147036612
+16,"Walking Downstairs","fBodyGyromeanY",-0.815962130027322
+16,"Walking Downstairs","fBodyGyromeanZ",-0.756286641721311
+16,"Walking Downstairs","fBodyGyrostdX",-0.804991831502732
+16,"Walking Downstairs","fBodyGyrostdY",-0.809421448142077
+16,"Walking Downstairs","fBodyGyrostdZ",-0.756993640724044
+16,"Walking Downstairs","tBodyAccJerkMagmean",-0.725246870486339
+16,"Walking Downstairs","tBodyAccJerkmeanX",0.0775488885374317
+16,"Walking Downstairs","tBodyAccJerkmeanY",0.00884018328270219
+16,"Walking Downstairs","tBodyAccJerkmeanZ",-0.00143730005564208
+16,"Walking Downstairs","tBodyAccJerkstdX",-0.72786174352459
+16,"Walking Downstairs","tBodyAccJerkstdY",-0.735080198043716
+16,"Walking Downstairs","tBodyAccJerkstdZ",-0.767873049380055
+16,"Walking Downstairs","tBodyAccMagmean",-0.616131116889044
+16,"Walking Downstairs","tBodyAccmeanX",0.277887440374317
+16,"Walking Downstairs","tBodyAccmeanY",-0.0158567888309016
+16,"Walking Downstairs","tBodyAccmeanZ",-0.107263924445355
+16,"Walking Downstairs","tBodyAccstdX",-0.668161498298634
+16,"Walking Downstairs","tBodyAccstdY",-0.649947067892896
+16,"Walking Downstairs","tBodyAccstdZ",-0.603819902386066
+16,"Walking Downstairs","tBodyGyroJerkMagmean",-0.860446372459016
+16,"Walking Downstairs","tBodyGyroJerkmeanX",-0.107361614801257
+16,"Walking Downstairs","tBodyGyroJerkmeanY",-0.0416615668939617
+16,"Walking Downstairs","tBodyGyroJerkmeanZ",-0.0539470410873497
+16,"Walking Downstairs","tBodyGyroJerkstdX",-0.858298719153005
+16,"Walking Downstairs","tBodyGyroJerkstdY",-0.86957312057377
+16,"Walking Downstairs","tBodyGyroJerkstdZ",-0.837039926065574
+16,"Walking Downstairs","tBodyGyroMagmean",-0.718168775628415
+16,"Walking Downstairs","tBodyGyromeanX",-0.0122341446725137
+16,"Walking Downstairs","tBodyGyromeanY",-0.0724444803980874
+16,"Walking Downstairs","tBodyGyromeanZ",0.0730144651530055
+16,"Walking Downstairs","tBodyGyrostdX",-0.799534450491803
+16,"Walking Downstairs","tBodyGyrostdY",-0.810124133715847
+16,"Walking Downstairs","tBodyGyrostdZ",-0.737629967961749
+16,"Walking Downstairs","tGravityAccMagmean",-0.616131116889044
+16,"Walking Downstairs","tGravityAccmeanX",0.700906130308743
+16,"Walking Downstairs","tGravityAccmeanY",-0.0605235993797814
+16,"Walking Downstairs","tGravityAccmeanZ",0.0402075536234973
+16,"Walking Downstairs","tGravityAccstdX",-0.971156432131148
+16,"Walking Downstairs","tGravityAccstdY",-0.964727519945355
+16,"Walking Downstairs","tGravityAccstdZ",-0.945294028639344
+17,"Sitting","fBodyAccJerkmeanX",-0.675134742364062
+17,"Sitting","fBodyAccJerkmeanY",-0.65093749483125
+17,"Sitting","fBodyAccJerkmeanZ",-0.7744940495625
+17,"Sitting","fBodyAccJerkstdX",-0.628899885682187
+17,"Sitting","fBodyAccJerkstdY",-0.614345425693125
+17,"Sitting","fBodyAccJerkstdZ",-0.79753323615625
+17,"Sitting","fBodyAccMagmean",-0.595908048050938
+17,"Sitting","fBodyAccmeanX",-0.600723904619781
+17,"Sitting","fBodyAccmeanY",-0.545947390043031
+17,"Sitting","fBodyAccmeanZ",-0.67938986181875
+17,"Sitting","fBodyAccstdX",-0.533671600249375
+17,"Sitting","fBodyAccstdY",-0.519062339910625
+17,"Sitting","fBodyAccstdZ",-0.609007944529688
+17,"Sitting","fBodyBodyAccJerkMagmean",-0.653531400748438
+17,"Sitting","fBodyBodyGyroJerkMagmean",-0.8045235876875
+17,"Sitting","fBodyBodyGyroMagmean",-0.73703546740625
+17,"Sitting","fBodyGyromeanX",-0.690246842451563
+17,"Sitting","fBodyGyromeanY",-0.7428462089375
+17,"Sitting","fBodyGyromeanZ",-0.68792205428125
+17,"Sitting","fBodyGyrostdX",-0.737661758785625
+17,"Sitting","fBodyGyrostdY",-0.72779753184375
+17,"Sitting","fBodyGyrostdZ",-0.708869113253125
+17,"Sitting","tBodyAccJerkMagmean",-0.652073857695312
+17,"Sitting","tBodyAccJerkmeanX",0.08251105141625
+17,"Sitting","tBodyAccJerkmeanY",0.00885228208375
+17,"Sitting","tBodyAccJerkmeanZ",0.003826532875875
+17,"Sitting","tBodyAccJerkstdX",-0.635949363671875
+17,"Sitting","tBodyAccJerkstdY",-0.6209185283575
+17,"Sitting","tBodyAccJerkstdZ",-0.78668123990625
+17,"Sitting","tBodyAccMagmean",-0.506906000020438
+17,"Sitting","tBodyAccmeanX",0.27344147274375
+17,"Sitting","tBodyAccmeanY",-0.0180888559772812
+17,"Sitting","tBodyAccmeanZ",-0.109111919458969
+17,"Sitting","tBodyAccstdX",-0.550867932263844
+17,"Sitting","tBodyAccstdY",-0.507275258134
+17,"Sitting","tBodyAccstdZ",-0.613217322774375
+17,"Sitting","tBodyGyroJerkMagmean",-0.78281769309375
+17,"Sitting","tBodyGyroJerkmeanX",-0.109084058157187
+17,"Sitting","tBodyGyroJerkmeanY",-0.0390296211270938
+17,"Sitting","tBodyGyroJerkmeanZ",-0.0504091215649062
+17,"Sitting","tBodyGyroJerkstdX",-0.75779255871875
+17,"Sitting","tBodyGyroJerkstdY",-0.80093311453125
+17,"Sitting","tBodyGyroJerkstdZ",-0.7804575046875
+17,"Sitting","tBodyGyroMagmean",-0.630693906651719
+17,"Sitting","tBodyGyromeanX",-0.01284166884445
+17,"Sitting","tBodyGyromeanY",-0.0833880991568063
+17,"Sitting","tBodyGyromeanZ",0.0745157818036563
+17,"Sitting","tBodyGyrostdX",-0.7250048879375
+17,"Sitting","tBodyGyrostdY",-0.73173270325
+17,"Sitting","tBodyGyrostdZ",-0.681002221107187
+17,"Sitting","tGravityAccMagmean",-0.506906000020438
+17,"Sitting","tGravityAccmeanX",0.668613344125
+17,"Sitting","tGravityAccmeanY",0.01046225616875
+17,"Sitting","tGravityAccmeanZ",0.0223722077328125
+17,"Sitting","tGravityAccstdX",-0.9695361643125
+17,"Sitting","tGravityAccstdY",-0.9570481696875
+17,"Sitting","tGravityAccstdZ",-0.94542101409375
+17,"Walking Downstairs","fBodyAccJerkmeanX",-0.993660824583333
+17,"Walking Downstairs","fBodyAccJerkmeanY",-0.9868704575
+17,"Walking Downstairs","fBodyAccJerkmeanZ",-0.989427028125
+17,"Walking Downstairs","fBodyAccJerkstdX",-0.994178642291667
+17,"Walking Downstairs","fBodyAccJerkstdY",-0.988578176875
+17,"Walking Downstairs","fBodyAccJerkstdZ",-0.991258490416667
+17,"Walking Downstairs","fBodyAccMagmean",-0.981396533333333
+17,"Walking Downstairs","fBodyAccmeanX",-0.992157217708333
+17,"Walking Downstairs","fBodyAccmeanY",-0.973701284375
+17,"Walking Downstairs","fBodyAccmeanZ",-0.982664512083333
+17,"Walking Downstairs","fBodyAccstdX",-0.992433994583333
+17,"Walking Downstairs","fBodyAccstdY",-0.962714830416667
+17,"Walking Downstairs","fBodyAccstdZ",-0.974056181875
+17,"Walking Downstairs","fBodyBodyAccJerkMagmean",-0.991203280625
+17,"Walking Downstairs","fBodyBodyGyroJerkMagmean",-0.993130339166667
+17,"Walking Downstairs","fBodyBodyGyroMagmean",-0.985919111875
+17,"Walking Downstairs","fBodyGyromeanX",-0.985134202708333
+17,"Walking Downstairs","fBodyGyromeanY",-0.987405592708333
+17,"Walking Downstairs","fBodyGyromeanZ",-0.986429749791667
+17,"Walking Downstairs","fBodyGyrostdX",-0.986027005208333
+17,"Walking Downstairs","fBodyGyrostdY",-0.984919989375
+17,"Walking Downstairs","fBodyGyrostdZ",-0.986650575625
+17,"Walking Downstairs","tBodyAccJerkMagmean",-0.992407460833333
+17,"Walking Downstairs","tBodyAccJerkmeanX",0.0740394237708333
+17,"Walking Downstairs","tBodyAccJerkmeanY",0.00607092773104167
+17,"Walking Downstairs","tBodyAccJerkmeanZ",-0.00478813832875
+17,"Walking Downstairs","tBodyAccJerkstdX",-0.993627979375
+17,"Walking Downstairs","tBodyAccJerkstdY",-0.987195772291667
+17,"Walking Downstairs","tBodyAccJerkstdZ",-0.991061698958333
+17,"Walking Downstairs","tBodyAccMagmean",-0.97810887125
+17,"Walking Downstairs","tBodyAccmeanX",0.277950050208333
+17,"Walking Downstairs","tBodyAccmeanY",-0.0138932613754167
+17,"Walking Downstairs","tBodyAccmeanZ",-0.109786077604167
+17,"Walking Downstairs","tBodyAccstdX",-0.992370654583333
+17,"Walking Downstairs","tBodyAccstdY",-0.965205728333333
+17,"Walking Downstairs","tBodyAccstdZ",-0.976352307916667
+17,"Walking Downstairs","tBodyGyroJerkMagmean",-0.994575164583333
+17,"Walking Downstairs","tBodyGyroJerkmeanX",-0.099654922875
+17,"Walking Downstairs","tBodyGyroJerkmeanY",-0.0401207685420833
+17,"Walking Downstairs","tBodyGyroJerkmeanZ",-0.0537865145708333
+17,"Walking Downstairs","tBodyGyroJerkstdX",-0.992357467708333
+17,"Walking Downstairs","tBodyGyroJerkstdY",-0.993025651041667
+17,"Walking Downstairs","tBodyGyroJerkstdZ",-0.993543291041667
+17,"Walking Downstairs","tBodyGyroMagmean",-0.979459900833333
+17,"Walking Downstairs","tBodyGyromeanX",-0.026848276775
+17,"Walking Downstairs","tBodyGyromeanY",-0.07819643980625
+17,"Walking Downstairs","tBodyGyromeanZ",0.0937536148541667
+17,"Walking Downstairs","tBodyGyrostdX",-0.985719333333333
+17,"Walking Downstairs","tBodyGyrostdY",-0.985762623125
+17,"Walking Downstairs","tBodyGyrostdZ",-0.985666489166667
+17,"Walking Downstairs","tGravityAccMagmean",-0.97810887125
+17,"Walking Downstairs","tGravityAccmeanX",0.901097859791667
+17,"Walking Downstairs","tGravityAccmeanY",-0.17504772675
+17,"Walking Downstairs","tGravityAccmeanZ",-0.284880580416667
+17,"Walking Downstairs","tGravityAccstdX",-0.986674910208333
+17,"Walking Downstairs","tGravityAccstdY",-0.970555891666667
+17,"Walking Downstairs","tGravityAccstdZ",-0.973160545416667
+18,"Sitting","fBodyAccJerkmeanX",-0.989649728
+18,"Sitting","fBodyAccJerkmeanY",-0.969070922
+18,"Sitting","fBodyAccJerkmeanZ",-0.986778406666667
+18,"Sitting","fBodyAccJerkstdX",-0.990952901666667
+18,"Sitting","fBodyAccJerkstdY",-0.970764276333333
+18,"Sitting","fBodyAccJerkstdZ",-0.990011026
+18,"Sitting","fBodyAccMagmean",-0.97137329
+18,"Sitting","fBodyAccmeanX",-0.990052909
+18,"Sitting","fBodyAccmeanY",-0.949811015333333
+18,"Sitting","fBodyAccmeanZ",-0.972738081666667
+18,"Sitting","fBodyAccstdX",-0.992469808333333
+18,"Sitting","fBodyAccstdY",-0.937087901
+18,"Sitting","fBodyAccstdZ",-0.943508302333333
+18,"Sitting","fBodyBodyAccJerkMagmean",-0.982538887333333
+18,"Sitting","fBodyBodyGyroJerkMagmean",-0.987332531
+18,"Sitting","fBodyBodyGyroMagmean",-0.964628023666667
+18,"Sitting","fBodyGyromeanX",-0.953668505666667
+18,"Sitting","fBodyGyromeanY",-0.982765614333333
+18,"Sitting","fBodyGyromeanZ",-0.966466455666667
+18,"Sitting","fBodyGyrostdX",-0.950392071666667
+18,"Sitting","fBodyGyrostdY",-0.975029833666667
+18,"Sitting","fBodyGyrostdZ",-0.964431652333333
+18,"Sitting","tBodyAccJerkMagmean",-0.984336614
+18,"Sitting","tBodyAccJerkmeanX",0.0756560724
+18,"Sitting","tBodyAccJerkmeanY",0.01212352927
+18,"Sitting","tBodyAccJerkmeanZ",0.000426343527333334
+18,"Sitting","tBodyAccJerkstdX",-0.989808125333333
+18,"Sitting","tBodyAccJerkstdY",-0.968781037
+18,"Sitting","tBodyAccJerkstdZ",-0.989064151666667
+18,"Sitting","tBodyAccMagmean",-0.963685834333333
+18,"Sitting","tBodyAccmeanX",0.27795824
+18,"Sitting","tBodyAccmeanY",-0.01729741093
+18,"Sitting","tBodyAccmeanZ",-0.110021546
+18,"Sitting","tBodyAccstdX",-0.991705206333333
+18,"Sitting","tBodyAccstdY",-0.939095257
+18,"Sitting","tBodyAccstdZ",-0.950753017666667
+18,"Sitting","tBodyGyroJerkMagmean",-0.986611885
+18,"Sitting","tBodyGyroJerkmeanX",-0.0981970214
+18,"Sitting","tBodyGyroJerkmeanY",-0.0397930495333333
+18,"Sitting","tBodyGyroJerkmeanZ",-0.053319608
+18,"Sitting","tBodyGyroJerkstdX",-0.976198165666667
+18,"Sitting","tBodyGyroJerkstdY",-0.991806091
+18,"Sitting","tBodyGyroJerkstdZ",-0.982765702666667
+18,"Sitting","tBodyGyroMagmean",-0.951887812
+18,"Sitting","tBodyGyromeanX",-0.0259236282933333
+18,"Sitting","tBodyGyromeanY",-0.0744458279666667
+18,"Sitting","tBodyGyromeanZ",0.0854533145
+18,"Sitting","tBodyGyrostdX",-0.950461505666667
+18,"Sitting","tBodyGyrostdY",-0.977660980333333
+18,"Sitting","tBodyGyrostdZ",-0.962330311666667
+18,"Sitting","tGravityAccMagmean",-0.963685834333333
+18,"Sitting","tGravityAccmeanX",0.962581161666667
+18,"Sitting","tGravityAccmeanY",-0.180018835666667
+18,"Sitting","tGravityAccmeanZ",0.0783976787
+18,"Sitting","tGravityAccstdX",-0.995679798333333
+18,"Sitting","tGravityAccstdY",-0.97557713
+18,"Sitting","tGravityAccstdZ",-0.973759297333333
+18,"Standing","fBodyAccJerkmeanX",-0.728496455928144
+18,"Standing","fBodyAccJerkmeanY",-0.723907683083832
+18,"Standing","fBodyAccJerkmeanZ",-0.819222532994012
+18,"Standing","fBodyAccJerkstdX",-0.720203372035928
+18,"Standing","fBodyAccJerkstdY",-0.718398453652695
+18,"Standing","fBodyAccJerkstdZ",-0.848506493113772
+18,"Standing","fBodyAccMagmean",-0.673154380637725
+18,"Standing","fBodyAccmeanX",-0.689453051047904
+18,"Standing","fBodyAccmeanY",-0.637957449640719
+18,"Standing","fBodyAccmeanZ",-0.742231387634731
+18,"Standing","fBodyAccstdX",-0.660489537904192
+18,"Standing","fBodyAccstdY",-0.605510423961078
+18,"Standing","fBodyAccstdZ",-0.672541676278443
+18,"Standing","fBodyBodyAccJerkMagmean",-0.720747618404192
+18,"Standing","fBodyBodyGyroJerkMagmean",-0.875441210479042
+18,"Standing","fBodyBodyGyroMagmean",-0.802962549161677
+18,"Standing","fBodyGyromeanX",-0.772855463736527
+18,"Standing","fBodyGyromeanY",-0.801441592754491
+18,"Standing","fBodyGyromeanZ",-0.737016020538922
+18,"Standing","fBodyGyrostdX",-0.799760555973054
+18,"Standing","fBodyGyrostdY",-0.74032145739521
+18,"Standing","fBodyGyrostdZ",-0.748592744401198
+18,"Standing","tBodyAccJerkMagmean",-0.73320719751497
+18,"Standing","tBodyAccJerkmeanX",0.0776448301356287
+18,"Standing","tBodyAccJerkmeanY",0.0129534445262126
+18,"Standing","tBodyAccJerkmeanZ",0.000886467423302994
+18,"Standing","tBodyAccJerkstdX",-0.711725557065868
+18,"Standing","tBodyAccJerkstdY",-0.711788469131737
+18,"Standing","tBodyAccJerkstdZ",-0.834520665329341
+18,"Standing","tBodyAccMagmean",-0.630947459700599
+18,"Standing","tBodyAccmeanX",0.276177377784431
+18,"Standing","tBodyAccmeanY",-0.0172818741561907
+18,"Standing","tBodyAccmeanZ",-0.107940757511976
+18,"Standing","tBodyAccstdX",-0.667932305209581
+18,"Standing","tBodyAccstdY",-0.599095553763473
+18,"Standing","tBodyAccstdZ",-0.679216670329341
+18,"Standing","tBodyGyroJerkMagmean",-0.84851863011976
+18,"Standing","tBodyGyroJerkmeanX",-0.0940621740320958
+18,"Standing","tBodyGyroJerkmeanY",-0.0445622527458084
+18,"Standing","tBodyGyroJerkmeanZ",-0.0571652014122156
+18,"Standing","tBodyGyroJerkstdX",-0.830920002934132
+18,"Standing","tBodyGyroJerkstdY",-0.874371824640719
+18,"Standing","tBodyGyroJerkstdZ",-0.825666964760479
+18,"Standing","tBodyGyroMagmean",-0.693434577904192
+18,"Standing","tBodyGyromeanX",-0.038430136020509
+18,"Standing","tBodyGyromeanY",-0.0672248771926647
+18,"Standing","tBodyGyromeanZ",0.0913241464640719
+18,"Standing","tBodyGyrostdX",-0.791426443721557
+18,"Standing","tBodyGyrostdY",-0.759370761556886
+18,"Standing","tBodyGyrostdZ",-0.72614680991018
+18,"Standing","tGravityAccMagmean",-0.630947459700599
+18,"Standing","tGravityAccmeanX",0.694792777095808
+18,"Standing","tGravityAccmeanY",-0.0010301843263473
+18,"Standing","tGravityAccmeanZ",0.0910314168113772
+18,"Standing","tGravityAccstdX",-0.978742766586826
+18,"Standing","tGravityAccstdY",-0.968999955598802
+18,"Standing","tGravityAccstdZ",-0.958147490299401
+19,"Sitting","fBodyAccJerkmeanX",-0.593157169174611
+19,"Sitting","fBodyAccJerkmeanY",-0.596694943936944
+19,"Sitting","fBodyAccJerkmeanZ",-0.680924493180556
+19,"Sitting","fBodyAccJerkstdX",-0.586910128980833
+19,"Sitting","fBodyAccJerkstdY",-0.572596722878
+19,"Sitting","fBodyAccJerkstdZ",-0.728521901498861
+19,"Sitting","fBodyAccMagmean",-0.556404444967972
+19,"Sitting","fBodyAccmeanX",-0.587050355097528
+19,"Sitting","fBodyAccmeanY",-0.521888076609778
+19,"Sitting","fBodyAccmeanZ",-0.647026298284028
+19,"Sitting","fBodyAccstdX",-0.5708979748225
+19,"Sitting","fBodyAccstdY",-0.530901585022361
+19,"Sitting","fBodyAccstdZ",-0.680291382637222
+19,"Sitting","fBodyBodyAccJerkMagmean",-0.576064647812278
+19,"Sitting","fBodyBodyGyroJerkMagmean",-0.719519008752778
+19,"Sitting","fBodyBodyGyroMagmean",-0.636287999799167
+19,"Sitting","fBodyGyromeanX",-0.553089575942778
+19,"Sitting","fBodyGyromeanY",-0.641337299817778
+19,"Sitting","fBodyGyromeanZ",-0.602625307818389
+19,"Sitting","fBodyGyrostdX",-0.666071315599889
+19,"Sitting","fBodyGyrostdY",-0.650105402347778
+19,"Sitting","fBodyGyrostdZ",-0.694729075491667
+19,"Sitting","tBodyAccJerkMagmean",-0.5762252472125
+19,"Sitting","tBodyAccJerkmeanX",0.0774171147766389
+19,"Sitting","tBodyAccJerkmeanY",0.0115812421960876
+19,"Sitting","tBodyAccJerkmeanZ",-0.00186198850195833
+19,"Sitting","tBodyAccJerkstdX",-0.571088266146083
+19,"Sitting","tBodyAccJerkstdY",-0.571311190432222
+19,"Sitting","tBodyAccJerkstdZ",-0.705342976190833
+19,"Sitting","tBodyAccMagmean",-0.531507362111361
+19,"Sitting","tBodyAccmeanX",0.269723487105556
+19,"Sitting","tBodyAccmeanY",-0.0182031515710306
+19,"Sitting","tBodyAccmeanZ",-0.118277180099383
+19,"Sitting","tBodyAccstdX",-0.574658922919194
+19,"Sitting","tBodyAccstdY",-0.507035084992639
+19,"Sitting","tBodyAccstdZ",-0.649184726556944
+19,"Sitting","tBodyGyroJerkMagmean",-0.683436541824444
+19,"Sitting","tBodyGyroJerkmeanX",-0.0895939425055556
+19,"Sitting","tBodyGyroJerkmeanY",-0.0383208736670278
+19,"Sitting","tBodyGyroJerkmeanZ",-0.0569649444286944
+19,"Sitting","tBodyGyroJerkstdX",-0.618836206634444
+19,"Sitting","tBodyGyroJerkstdY",-0.725991380623889
+19,"Sitting","tBodyGyroJerkstdZ",-0.686684583831583
+19,"Sitting","tBodyGyroMagmean",-0.548919668132222
+19,"Sitting","tBodyGyromeanX",-0.0385723953346511
+19,"Sitting","tBodyGyromeanY",-0.0681420603177778
+19,"Sitting","tBodyGyromeanZ",0.0883609591559167
+19,"Sitting","tBodyGyrostdX",-0.637789914575556
+19,"Sitting","tBodyGyrostdY",-0.643866300560306
+19,"Sitting","tBodyGyrostdZ",-0.645682212189167
+19,"Sitting","tGravityAccMagmean",-0.531507362111361
+19,"Sitting","tGravityAccmeanX",0.475323016
+19,"Sitting","tGravityAccmeanY",0.0964052626666667
+19,"Sitting","tGravityAccmeanZ",0.233011401195083
+19,"Sitting","tGravityAccstdX",-0.958290447861111
+19,"Sitting","tGravityAccstdY",-0.95925383425
+19,"Sitting","tGravityAccstdZ",-0.94180028475
+20,"Laying","fBodyAccJerkmeanX",-0.624523279069231
+20,"Laying","fBodyAccJerkmeanY",-0.466996133878205
+20,"Laying","fBodyAccJerkmeanZ",-0.730766642435897
+20,"Laying","fBodyAccJerkstdX",-0.584111033739744
+20,"Laying","fBodyAccJerkstdY",-0.420402255935897
+20,"Laying","fBodyAccJerkstdZ",-0.745732864166667
+20,"Laying","fBodyAccMagmean",-0.505493351425641
+20,"Laying","fBodyAccmeanX",-0.57063792171218
+20,"Laying","fBodyAccmeanY",-0.324959680379103
+20,"Laying","fBodyAccmeanZ",-0.67195587225
+20,"Laying","fBodyAccstdX",-0.538561223491667
+20,"Laying","fBodyAccstdY",-0.273948137371154
+20,"Laying","fBodyAccstdZ",-0.65088931224359
+20,"Laying","fBodyBodyAccJerkMagmean",-0.538159936420513
+20,"Laying","fBodyBodyGyroJerkMagmean",-0.659341951769231
+20,"Laying","fBodyBodyGyroMagmean",-0.547332691298077
+20,"Laying","fBodyGyromeanX",-0.579382474189103
+20,"Laying","fBodyGyromeanY",-0.526303994216667
+20,"Laying","fBodyGyromeanZ",-0.431155163544231
+20,"Laying","fBodyGyrostdX",-0.676883051647436
+20,"Laying","fBodyGyrostdY",-0.46709876350641
+20,"Laying","fBodyGyrostdZ",-0.522534472884615
+20,"Laying","tBodyAccJerkMagmean",-0.564555998864103
+20,"Laying","tBodyAccJerkmeanX",0.0750346921474359
+20,"Laying","tBodyAccJerkmeanY",-0.00274400097455128
+20,"Laying","tBodyAccJerkmeanZ",-0.00251495485183974
+20,"Laying","tBodyAccJerkstdX",-0.586215941176923
+20,"Laying","tBodyAccJerkstdY",-0.426120353397436
+20,"Laying","tBodyAccJerkstdZ",-0.738913456730769
+20,"Laying","tBodyAccMagmean",-0.452429326099846
+20,"Laying","tBodyAccmeanX",0.268210689679487
+20,"Laying","tBodyAccmeanY",-0.0154394352991026
+20,"Laying","tBodyAccmeanZ",-0.103432062417949
+20,"Laying","tBodyAccstdX",-0.546535422961538
+20,"Laying","tBodyAccstdY",-0.259011300096154
+20,"Laying","tBodyAccstdZ",-0.639730168647436
+20,"Laying","tBodyGyroJerkMagmean",-0.624627827903846
+20,"Laying","tBodyGyroJerkmeanX",-0.0945547052108333
+20,"Laying","tBodyGyroJerkmeanY",-0.0402012429820513
+20,"Laying","tBodyGyroJerkmeanZ",-0.0525724570615385
+20,"Laying","tBodyGyroJerkstdX",-0.653186069490385
+20,"Laying","tBodyGyroJerkstdY",-0.643573137512821
+20,"Laying","tBodyGyroJerkstdZ",-0.536900063648718
+20,"Laying","tBodyGyroMagmean",-0.435122258175641
+20,"Laying","tBodyGyromeanX",-0.0224726834409615
+20,"Laying","tBodyGyromeanY",-0.0789627194310256
+20,"Laying","tBodyGyromeanZ",0.0900253976657692
+20,"Laying","tBodyGyrostdX",-0.652396391814103
+20,"Laying","tBodyGyrostdY",-0.485894484605705
+20,"Laying","tBodyGyrostdZ",-0.460843186407692
+20,"Laying","tGravityAccMagmean",-0.452429326099846
+20,"Laying","tGravityAccmeanX",0.590974958467949
+20,"Laying","tGravityAccmeanY",0.00243648291666667
+20,"Laying","tGravityAccmeanZ",0.107789718651859
+20,"Laying","tGravityAccstdX",-0.95804564051282
+20,"Laying","tGravityAccstdY",-0.951149621217949
+20,"Laying","tGravityAccstdZ",-0.943657000576923
+20,"Standing","fBodyAccJerkmeanX",-0.674120731307722
+20,"Standing","fBodyAccJerkmeanY",-0.629326860401515
+20,"Standing","fBodyAccJerkmeanZ",-0.734465775308081
+20,"Standing","fBodyAccJerkstdX",-0.674575997207071
+20,"Standing","fBodyAccJerkstdY",-0.609033040979596
+20,"Standing","fBodyAccJerkstdZ",-0.772151009146465
+20,"Standing","fBodyAccMagmean",-0.603443252690404
+20,"Standing","fBodyAccmeanX",-0.645734537631313
+20,"Standing","fBodyAccmeanY",-0.506320391156566
+20,"Standing","fBodyAccmeanZ",-0.659532033916162
+20,"Standing","fBodyAccstdX",-0.654036248306667
+20,"Standing","fBodyAccstdY",-0.466298670467677
+20,"Standing","fBodyAccstdZ",-0.644857545959596
+20,"Standing","fBodyBodyAccJerkMagmean",-0.621138091371919
+20,"Standing","fBodyBodyGyroJerkMagmean",-0.718871385552626
+20,"Standing","fBodyBodyGyroMagmean",-0.653958606511717
+20,"Standing","fBodyGyromeanX",-0.663525228784343
+20,"Standing","fBodyGyromeanY",-0.642043649208939
+20,"Standing","fBodyGyromeanZ",-0.587217933571212
+20,"Standing","fBodyGyrostdX",-0.726226342060606
+20,"Standing","fBodyGyrostdY",-0.646762421016667
+20,"Standing","fBodyGyrostdZ",-0.616340393406566
+20,"Standing","tBodyAccJerkMagmean",-0.663144565966667
+20,"Standing","tBodyAccJerkmeanX",0.0835868911373737
+20,"Standing","tBodyAccJerkmeanY",0.00611187765247475
+20,"Standing","tBodyAccJerkmeanZ",-0.00607491491689899
+20,"Standing","tBodyAccJerkstdX",-0.659309592116667
+20,"Standing","tBodyAccJerkstdY",-0.606793100151515
+20,"Standing","tBodyAccJerkstdZ",-0.75401945230303
+20,"Standing","tBodyAccMagmean",-0.56833411675101
+20,"Standing","tBodyAccmeanX",0.268595205636364
+20,"Standing","tBodyAccmeanY",-0.0192867074389394
+20,"Standing","tBodyAccmeanZ",-0.111651090326263
+20,"Standing","tBodyAccstdX",-0.650788909160606
+20,"Standing","tBodyAccstdY",-0.456259753985354
+20,"Standing","tBodyAccstdZ",-0.630893001863636
+20,"Standing","tBodyGyroJerkMagmean",-0.730864782378788
+20,"Standing","tBodyGyroJerkmeanX",-0.0953189767722222
+20,"Standing","tBodyGyroJerkmeanY",-0.0424081459060606
+20,"Standing","tBodyGyroJerkmeanZ",-0.0556613228575758
+20,"Standing","tBodyGyroJerkstdX",-0.733941115257576
+20,"Standing","tBodyGyroJerkstdY",-0.716353299126263
+20,"Standing","tBodyGyroJerkstdZ",-0.715358641818182
+20,"Standing","tBodyGyroMagmean",-0.581261642571717
+20,"Standing","tBodyGyromeanX",-0.0256483096989899
+20,"Standing","tBodyGyromeanY",-0.0789307564061111
+20,"Standing","tBodyGyromeanZ",0.082163496089899
+20,"Standing","tBodyGyrostdX",-0.70994810379798
+20,"Standing","tBodyGyrostdY",-0.642839666627273
+20,"Standing","tBodyGyrostdZ",-0.579620527478788
+20,"Standing","tGravityAccMagmean",-0.56833411675101
+20,"Standing","tGravityAccmeanX",0.657243899191919
+20,"Standing","tGravityAccmeanY",-0.0686181655555556
+20,"Standing","tGravityAccmeanZ",0.10679036740404
+20,"Standing","tGravityAccstdX",-0.958324946717172
+20,"Standing","tGravityAccstdY",-0.953576080606061
+20,"Standing","tGravityAccstdZ",-0.93887359689899
+21,"Sitting","fBodyAccJerkmeanX",-0.71641413145049
+21,"Sitting","fBodyAccJerkmeanY",-0.678615118728922
+21,"Sitting","fBodyAccJerkmeanZ",-0.767351986555392
+21,"Sitting","fBodyAccJerkstdX",-0.709800728388235
+21,"Sitting","fBodyAccJerkstdY",-0.674102360655147
+21,"Sitting","fBodyAccJerkstdZ",-0.794922813673627
+21,"Sitting","fBodyAccMagmean",-0.658664719514706
+21,"Sitting","fBodyAccmeanX",-0.693486097144118
+21,"Sitting","fBodyAccmeanY",-0.59377821414902
+21,"Sitting","fBodyAccmeanZ",-0.707713799021814
+21,"Sitting","fBodyAccstdX",-0.665349663426471
+21,"Sitting","fBodyAccstdY",-0.578748586831863
+21,"Sitting","fBodyAccstdZ",-0.675588192778676
+21,"Sitting","fBodyBodyAccJerkMagmean",-0.679742584809363
+21,"Sitting","fBodyBodyGyroJerkMagmean",-0.826275026053922
+21,"Sitting","fBodyBodyGyroMagmean",-0.776473060171569
+21,"Sitting","fBodyGyromeanX",-0.752040828651961
+21,"Sitting","fBodyGyromeanY",-0.759325714811275
+21,"Sitting","fBodyGyromeanZ",-0.709471420465686
+21,"Sitting","fBodyGyrostdX",-0.811026710110294
+21,"Sitting","fBodyGyrostdY",-0.771388318823529
+21,"Sitting","fBodyGyrostdZ",-0.728319304730637
+21,"Sitting","tBodyAccJerkMagmean",-0.703461275879657
+21,"Sitting","tBodyAccJerkmeanX",0.0822207874776961
+21,"Sitting","tBodyAccJerkmeanY",0.00350107553584853
+21,"Sitting","tBodyAccJerkmeanZ",-0.010659072671299
+21,"Sitting","tBodyAccJerkstdX",-0.699763344205784
+21,"Sitting","tBodyAccJerkstdY",-0.66515912310562
+21,"Sitting","tBodyAccJerkstdZ",-0.78182390148299
+21,"Sitting","tBodyAccMagmean",-0.620309259553676
+21,"Sitting","tBodyAccmeanX",0.277466525522059
+21,"Sitting","tBodyAccmeanY",-0.0176664578561765
+21,"Sitting","tBodyAccmeanZ",-0.10877848058848
+21,"Sitting","tBodyAccstdX",-0.672323867377451
+21,"Sitting","tBodyAccstdY",-0.565585190336299
+21,"Sitting","tBodyAccstdZ",-0.669621813176471
+21,"Sitting","tBodyGyroJerkMagmean",-0.807817403137255
+21,"Sitting","tBodyGyroJerkmeanX",-0.100558317889216
+21,"Sitting","tBodyGyroJerkmeanY",-0.0408236141863333
+21,"Sitting","tBodyGyroJerkmeanZ",-0.0533861046416422
+21,"Sitting","tBodyGyroJerkstdX",-0.792483156720588
+21,"Sitting","tBodyGyroJerkstdY",-0.815859336004902
+21,"Sitting","tBodyGyroJerkstdZ",-0.812017312181373
+21,"Sitting","tBodyGyroMagmean",-0.693779224517157
+21,"Sitting","tBodyGyromeanX",-0.0276346639303578
+21,"Sitting","tBodyGyromeanY",-0.0784719736838971
+21,"Sitting","tBodyGyromeanZ",0.0861212668362745
+21,"Sitting","tBodyGyrostdX",-0.79617228689951
+21,"Sitting","tBodyGyrostdY",-0.765057760637255
+21,"Sitting","tBodyGyrostdZ",-0.701642028499559
+21,"Sitting","tGravityAccMagmean",-0.620309259553676
+21,"Sitting","tGravityAccmeanX",0.645775957808824
+21,"Sitting","tGravityAccmeanY",-0.0750963071446078
+21,"Sitting","tGravityAccmeanZ",0.0321851774362745
+21,"Sitting","tGravityAccstdX",-0.965586634460784
+21,"Sitting","tGravityAccstdY",-0.969330818455882
+21,"Sitting","tGravityAccstdZ",-0.953093993308823
+22,"Sitting","fBodyAccJerkmeanX",-0.680088110645454
+22,"Sitting","fBodyAccJerkmeanY",-0.65888895869697
+22,"Sitting","fBodyAccJerkmeanZ",-0.795524533080808
+22,"Sitting","fBodyAccJerkstdX",-0.678917860634848
+22,"Sitting","fBodyAccJerkstdY",-0.663075714679899
+22,"Sitting","fBodyAccJerkstdZ",-0.826747967929293
+22,"Sitting","fBodyAccMagmean",-0.657999241032323
+22,"Sitting","fBodyAccmeanX",-0.672665603776768
+22,"Sitting","fBodyAccmeanY",-0.606166993241414
+22,"Sitting","fBodyAccmeanZ",-0.750810842838384
+22,"Sitting","fBodyAccstdX",-0.617357217010101
+22,"Sitting","fBodyAccstdY",-0.613102962343434
+22,"Sitting","fBodyAccstdZ",-0.724294244810606
+22,"Sitting","fBodyBodyAccJerkMagmean",-0.667449371934343
+22,"Sitting","fBodyBodyGyroJerkMagmean",-0.865397185555556
+22,"Sitting","fBodyBodyGyroMagmean",-0.781388848888889
+22,"Sitting","fBodyGyromeanX",-0.700048715979798
+22,"Sitting","fBodyGyromeanY",-0.844099768484848
+22,"Sitting","fBodyGyromeanZ",-0.712700262257576
+22,"Sitting","fBodyGyrostdX",-0.758195876909091
+22,"Sitting","fBodyGyrostdY",-0.83351028510101
+22,"Sitting","fBodyGyrostdZ",-0.749282657878788
+22,"Sitting","tBodyAccJerkMagmean",-0.687293447142929
+22,"Sitting","tBodyAccJerkmeanX",0.0847162929146465
+22,"Sitting","tBodyAccJerkmeanY",0.0189573433473737
+22,"Sitting","tBodyAccJerkmeanZ",-0.00354166441267677
+22,"Sitting","tBodyAccJerkstdX",-0.66465053739798
+22,"Sitting","tBodyAccJerkstdY",-0.649008826582323
+22,"Sitting","tBodyAccJerkstdZ",-0.811609738686869
+22,"Sitting","tBodyAccMagmean",-0.597799544011717
+22,"Sitting","tBodyAccmeanX",0.279241531908081
+22,"Sitting","tBodyAccmeanY",-0.0168623073762273
+22,"Sitting","tBodyAccmeanZ",-0.108558951083333
+22,"Sitting","tBodyAccstdX",-0.631563159137374
+22,"Sitting","tBodyAccstdY",-0.593370593093586
+22,"Sitting","tBodyAccstdZ",-0.719165341207576
+22,"Sitting","tBodyGyroJerkMagmean",-0.838758636363636
+22,"Sitting","tBodyGyroJerkmeanX",-0.106045772136364
+22,"Sitting","tBodyGyroJerkmeanY",-0.0372238262065657
+22,"Sitting","tBodyGyroJerkmeanZ",-0.0543623901222222
+22,"Sitting","tBodyGyroJerkstdX",-0.760885591313131
+22,"Sitting","tBodyGyroJerkstdY",-0.898549452979798
+22,"Sitting","tBodyGyroJerkstdZ",-0.790942774393939
+22,"Sitting","tBodyGyroMagmean",-0.704296113121212
+22,"Sitting","tBodyGyromeanX",-0.0122820553981818
+22,"Sitting","tBodyGyromeanY",-0.0909878213994949
+22,"Sitting","tBodyGyromeanZ",0.0846177356545455
+22,"Sitting","tBodyGyrostdX",-0.743170551461616
+22,"Sitting","tBodyGyrostdY",-0.836307422323232
+22,"Sitting","tBodyGyrostdZ",-0.720618809515152
+22,"Sitting","tGravityAccMagmean",-0.597799544011717
+22,"Sitting","tGravityAccmeanX",0.675242930959596
+22,"Sitting","tGravityAccmeanY",0.0235808363131313
+22,"Sitting","tGravityAccmeanZ",0.236637160405404
+22,"Sitting","tGravityAccstdX",-0.970886422525252
+22,"Sitting","tGravityAccstdY",-0.964866300237374
+22,"Sitting","tGravityAccstdZ",-0.945237536671717
+22,"Standing","fBodyAccJerkmeanX",-0.482177496374797
+22,"Standing","fBodyAccJerkmeanY",-0.438179681174797
+22,"Standing","fBodyAccJerkmeanZ",-0.649840836666667
+22,"Standing","fBodyAccJerkstdX",-0.479376250713415
+22,"Standing","fBodyAccJerkstdY",-0.436851876529854
+22,"Standing","fBodyAccJerkstdZ",-0.705406665853659
+22,"Standing","fBodyAccMagmean",-0.439651188565854
+22,"Standing","fBodyAccmeanX",-0.469793729799187
+22,"Standing","fBodyAccmeanY",-0.350425993027642
+22,"Standing","fBodyAccmeanZ",-0.58511773696748
+22,"Standing","fBodyAccstdX",-0.386658942001626
+22,"Standing","fBodyAccstdY",-0.358594356956098
+22,"Standing","fBodyAccstdZ",-0.57089997098374
+22,"Standing","fBodyBodyAccJerkMagmean",-0.453431441817886
+22,"Standing","fBodyBodyGyroJerkMagmean",-0.773520124878049
+22,"Standing","fBodyBodyGyroMagmean",-0.642492204065041
+22,"Standing","fBodyGyromeanX",-0.54222877499187
+22,"Standing","fBodyGyromeanY",-0.706565563170732
+22,"Standing","fBodyGyromeanZ",-0.531747806138211
+22,"Standing","fBodyGyrostdX",-0.645407507130081
+22,"Standing","fBodyGyrostdY",-0.699201260894309
+22,"Standing","fBodyGyrostdZ",-0.596342575910569
+22,"Standing","tBodyAccJerkMagmean",-0.484983543582927
+22,"Standing","tBodyAccJerkmeanX",0.0700672625147154
+22,"Standing","tBodyAccJerkmeanY",0.00930099346105691
+22,"Standing","tBodyAccJerkmeanZ",-0.0131640140761789
+22,"Standing","tBodyAccJerkstdX",-0.456687476
+22,"Standing","tBodyAccJerkstdY",-0.417944389701626
+22,"Standing","tBodyAccJerkstdZ",-0.678143433821138
+22,"Standing","tBodyAccMagmean",-0.353264495414634
+22,"Standing","tBodyAccmeanX",0.267565895829268
+22,"Standing","tBodyAccmeanY",-0.016771104312122
+22,"Standing","tBodyAccmeanZ",-0.108849744982114
+22,"Standing","tBodyAccstdX",-0.408498997088862
+22,"Standing","tBodyAccstdY",-0.326700060089431
+22,"Standing","tBodyAccstdZ",-0.551943490507317
+22,"Standing","tBodyGyroJerkMagmean",-0.723727568292683
+22,"Standing","tBodyGyroJerkmeanX",-0.114427759866748
+22,"Standing","tBodyGyroJerkmeanY",-0.0404541723047154
+22,"Standing","tBodyGyroJerkmeanZ",-0.0644152729899187
+22,"Standing","tBodyGyroJerkstdX",-0.625212511333333
+22,"Standing","tBodyGyroJerkstdY",-0.797747537235772
+22,"Standing","tBodyGyroJerkstdZ",-0.663925946674797
+22,"Standing","tBodyGyroMagmean",-0.530408052165854
+22,"Standing","tBodyGyromeanX",-0.00112339350162602
+22,"Standing","tBodyGyromeanY",-0.10137018874878
+22,"Standing","tBodyGyromeanZ",0.0758043878666667
+22,"Standing","tBodyGyrostdX",-0.619856056592683
+22,"Standing","tBodyGyrostdY",-0.699934248861789
+22,"Standing","tBodyGyrostdZ",-0.547955275764228
+22,"Standing","tGravityAccMagmean",-0.353264495414634
+22,"Standing","tGravityAccmeanX",0.503385126178862
+22,"Standing","tGravityAccmeanY",0.0442736759186992
+22,"Standing","tGravityAccmeanZ",0.234681679495935
+22,"Standing","tGravityAccstdX",-0.938572531056911
+22,"Standing","tGravityAccstdY",-0.945180370293496
+22,"Standing","tGravityAccstdZ",-0.929170545691057
+23,"Standing","fBodyAccJerkmeanX",-0.617521836605645
+23,"Standing","fBodyAccJerkmeanY",-0.628231338392742
+23,"Standing","fBodyAccJerkmeanZ",-0.578870810235484
+23,"Standing","fBodyAccJerkstdX",-0.635054351475538
+23,"Standing","fBodyAccJerkstdY",-0.636977610060753
+23,"Standing","fBodyAccJerkstdZ",-0.627540367652688
+23,"Standing","fBodyAccMagmean",-0.529029284118011
+23,"Standing","fBodyAccmeanX",-0.599080886430645
+23,"Standing","fBodyAccmeanY",-0.548483208943548
+23,"Standing","fBodyAccmeanZ",-0.49021281618414
+23,"Standing","fBodyAccstdX",-0.633839114436559
+23,"Standing","fBodyAccstdY",-0.554471679592177
+23,"Standing","fBodyAccstdZ",-0.474767543716048
+23,"Standing","fBodyBodyAccJerkMagmean",-0.542663319457527
+23,"Standing","fBodyBodyGyroJerkMagmean",-0.584111049810215
+23,"Standing","fBodyBodyGyroMagmean",-0.534657191683602
+23,"Standing","fBodyGyromeanX",-0.685136501518817
+23,"Standing","fBodyGyromeanY",-0.497783811010484
+23,"Standing","fBodyGyromeanZ",-0.617685416736559
+23,"Standing","fBodyGyrostdX",-0.779197054064516
+23,"Standing","fBodyGyrostdY",-0.50785054741371
+23,"Standing","fBodyGyrostdZ",-0.644131036807258
+23,"Standing","tBodyAccJerkMagmean",-0.58640067170914
+23,"Standing","tBodyAccJerkmeanX",0.0778588215843817
+23,"Standing","tBodyAccJerkmeanY",0.0200470964972984
+23,"Standing","tBodyAccJerkmeanZ",-0.000717680881887096
+23,"Standing","tBodyAccJerkstdX",-0.608183751830914
+23,"Standing","tBodyAccJerkstdY",-0.61898123051828
+23,"Standing","tBodyAccJerkstdZ",-0.603048769571532
+23,"Standing","tBodyAccMagmean",-0.532754757205108
+23,"Standing","tBodyAccmeanX",0.273493254730108
+23,"Standing","tBodyAccmeanY",-0.019589258786828
+23,"Standing","tBodyAccmeanZ",-0.109093982385242
+23,"Standing","tBodyAccstdX",-0.622594039757258
+23,"Standing","tBodyAccstdY",-0.532078546615699
+23,"Standing","tBodyAccstdZ",-0.450557203409946
+23,"Standing","tBodyGyroJerkMagmean",-0.623412641977151
+23,"Standing","tBodyGyroJerkmeanX",-0.0966990737225806
+23,"Standing","tBodyGyroJerkmeanY",-0.0432722741798387
+23,"Standing","tBodyGyroJerkmeanZ",-0.0621959093526344
+23,"Standing","tBodyGyroJerkstdX",-0.728692138333333
+23,"Standing","tBodyGyroJerkstdY",-0.546043593651882
+23,"Standing","tBodyGyroJerkstdZ",-0.740518145887097
+23,"Standing","tBodyGyroMagmean",-0.544207964433387
+23,"Standing","tBodyGyromeanX",-0.0220890418013172
+23,"Standing","tBodyGyromeanY",-0.0825972963754032
+23,"Standing","tBodyGyromeanZ",0.074694942324328
+23,"Standing","tBodyGyrostdX",-0.755738625241935
+23,"Standing","tBodyGyrostdY",-0.500338191139785
+23,"Standing","tBodyGyrostdZ",-0.609683451821774
+23,"Standing","tGravityAccMagmean",-0.532754757205108
+23,"Standing","tGravityAccmeanX",0.662324737580645
+23,"Standing","tGravityAccmeanY",0.0146209197354839
+23,"Standing","tGravityAccmeanZ",0.0518662466372043
+23,"Standing","tGravityAccstdX",-0.964393040295699
+23,"Standing","tGravityAccstdY",-0.960318907096774
+23,"Standing","tGravityAccstdZ",-0.934236146612903
+24,"Laying","fBodyAccJerkmeanX",-0.752245372493438
+24,"Laying","fBodyAccJerkmeanY",-0.703641614506562
+24,"Laying","fBodyAccJerkmeanZ",-0.719655747391076
+24,"Laying","fBodyAccJerkstdX",-0.751378154304462
+24,"Laying","fBodyAccJerkstdY",-0.688280461860892
+24,"Laying","fBodyAccJerkstdZ",-0.751628687821522
+24,"Laying","fBodyAccMagmean",-0.650121872273806
+24,"Laying","fBodyAccmeanX",-0.707613779580052
+24,"Laying","fBodyAccmeanY",-0.611509042586877
+24,"Laying","fBodyAccmeanZ",-0.65585899482231
+24,"Laying","fBodyAccstdX",-0.664356691751496
+24,"Laying","fBodyAccstdY",-0.594676790059055
+24,"Laying","fBodyAccstdZ",-0.655360521446194
+24,"Laying","fBodyBodyAccJerkMagmean",-0.696845583388451
+24,"Laying","fBodyBodyGyroJerkMagmean",-0.795019165380577
+24,"Laying","fBodyBodyGyroMagmean",-0.754131617480315
+24,"Laying","fBodyGyromeanX",-0.722607377748032
+24,"Laying","fBodyGyromeanY",-0.753710479580053
+24,"Laying","fBodyGyromeanZ",-0.70948857687664
+24,"Laying","fBodyGyrostdX",-0.794063529133858
+24,"Laying","fBodyGyrostdY",-0.771969808976378
+24,"Laying","fBodyGyrostdZ",-0.735749934304462
+24,"Laying","tBodyAccJerkMagmean",-0.713667423769029
+24,"Laying","tBodyAccJerkmeanX",0.0784735003467192
+24,"Laying","tBodyAccJerkmeanY",0.00396900308574016
+24,"Laying","tBodyAccJerkmeanZ",-0.00700960558805774
+24,"Laying","tBodyAccJerkstdX",-0.74030054488189
+24,"Laying","tBodyAccJerkstdY",-0.685979796261942
+24,"Laying","tBodyAccJerkstdZ",-0.736374232574803
+24,"Laying","tBodyAccMagmean",-0.620032665162467
+24,"Laying","tBodyAccmeanX",0.276767046391076
+24,"Laying","tBodyAccmeanY",-0.0176822460103885
+24,"Laying","tBodyAccmeanZ",-0.107914503687664
+24,"Laying","tBodyAccstdX",-0.675459176298425
+24,"Laying","tBodyAccstdY",-0.582490655185302
+24,"Laying","tBodyAccstdZ",-0.636497458900262
+24,"Laying","tBodyGyroJerkMagmean",-0.791646550787402
+24,"Laying","tBodyGyroJerkmeanX",-0.0998294248142257
+24,"Laying","tBodyGyroJerkmeanY",-0.0390749421383202
+24,"Laying","tBodyGyroJerkmeanZ",-0.0552987683401575
+24,"Laying","tBodyGyroJerkstdX",-0.764490030609974
+24,"Laying","tBodyGyroJerkstdY",-0.792718702440945
+24,"Laying","tBodyGyroJerkstdZ",-0.796816516614173
+24,"Laying","tBodyGyroMagmean",-0.682447212750656
+24,"Laying","tBodyGyromeanX",-0.0212578096847769
+24,"Laying","tBodyGyromeanY",-0.0782440202677165
+24,"Laying","tBodyGyromeanZ",0.0841740375981627
+24,"Laying","tBodyGyrostdX",-0.776199049939633
+24,"Laying","tBodyGyrostdY",-0.763365457296588
+24,"Laying","tBodyGyrostdZ",-0.708251676335958
+24,"Laying","tGravityAccMagmean",-0.620032665162467
+24,"Laying","tGravityAccmeanX",0.69498126808399
+24,"Laying","tGravityAccmeanY",0.0729509702152231
+24,"Laying","tGravityAccmeanZ",0.0623227714146982
+24,"Laying","tGravityAccstdX",-0.975329699658793
+24,"Laying","tGravityAccstdY",-0.96089816664042
+24,"Laying","tGravityAccstdZ",-0.955724566194226
+25,"Standing","fBodyAccJerkmeanX",-0.804144642836186
+25,"Standing","fBodyAccJerkmeanY",-0.740570312249389
+25,"Standing","fBodyAccJerkmeanZ",-0.849504849486553
+25,"Standing","fBodyAccJerkstdX",-0.807712525721271
+25,"Standing","fBodyAccJerkstdY",-0.721707668572127
+25,"Standing","fBodyAccJerkstdZ",-0.870541516210269
+25,"Standing","fBodyAccMagmean",-0.69501971
+25,"Standing","fBodyAccmeanX",-0.748416509682152
+25,"Standing","fBodyAccmeanY",-0.600027697242054
+25,"Standing","fBodyAccmeanZ",-0.738509947579462
+25,"Standing","fBodyAccstdX",-0.705223686579951
+25,"Standing","fBodyAccstdY",-0.529064652290954
+25,"Standing","fBodyAccstdZ",-0.630224637674572
+25,"Standing","fBodyBodyAccJerkMagmean",-0.779190075892421
+25,"Standing","fBodyBodyGyroJerkMagmean",-0.875970674743276
+25,"Standing","fBodyBodyGyroMagmean",-0.754236109755501
+25,"Standing","fBodyGyromeanX",-0.672197763601467
+25,"Standing","fBodyGyromeanY",-0.81313379207824
+25,"Standing","fBodyGyromeanZ",-0.746832213594132
+25,"Standing","fBodyGyrostdX",-0.690398481943765
+25,"Standing","fBodyGyrostdY",-0.723584437530562
+25,"Standing","fBodyGyrostdZ",-0.771208929095355
+25,"Standing","tBodyAccJerkMagmean",-0.783445354474328
+25,"Standing","tBodyAccJerkmeanX",0.0817657442063814
+25,"Standing","tBodyAccJerkmeanY",0.00638633884442543
+25,"Standing","tBodyAccJerkmeanZ",-0.010346171499489
+25,"Standing","tBodyAccJerkstdX",-0.79682335007335
+25,"Standing","tBodyAccJerkstdY",-0.722502919364303
+25,"Standing","tBodyAccJerkstdZ",-0.860669382640587
+25,"Standing","tBodyAccMagmean",-0.583377749713936
+25,"Standing","tBodyAccmeanX",0.275301467772127
+25,"Standing","tBodyAccmeanY",-0.0193221769314914
+25,"Standing","tBodyAccmeanZ",-0.10962903098044
+25,"Standing","tBodyAccstdX",-0.716264537547677
+25,"Standing","tBodyAccstdY",-0.531421035602689
+25,"Standing","tBodyAccstdZ",-0.64709556105868
+25,"Standing","tBodyGyroJerkMagmean",-0.849630706259169
+25,"Standing","tBodyGyroJerkmeanX",-0.108263884562298
+25,"Standing","tBodyGyroJerkmeanY",-0.0389884753435208
+25,"Standing","tBodyGyroJerkmeanZ",-0.0555782223647433
+25,"Standing","tBodyGyroJerkstdX",-0.768682473178484
+25,"Standing","tBodyGyroJerkstdY",-0.902628080757946
+25,"Standing","tBodyGyroJerkstdZ",-0.831848667286064
+25,"Standing","tBodyGyroMagmean",-0.625733064258924
+25,"Standing","tBodyGyromeanX",-0.00298151164792176
+25,"Standing","tBodyGyromeanY",-0.083900354157824
+25,"Standing","tBodyGyromeanZ",0.0993606079900489
+25,"Standing","tBodyGyrostdX",-0.683131970775061
+25,"Standing","tBodyGyrostdY",-0.752261013276284
+25,"Standing","tBodyGyrostdZ",-0.74741022
+25,"Standing","tGravityAccMagmean",-0.583377749713936
+25,"Standing","tGravityAccmeanX",0.672386622127139
+25,"Standing","tGravityAccmeanY",0.0471601427530562
+25,"Standing","tGravityAccmeanZ",0.239226040930391
+25,"Standing","tGravityAccstdX",-0.950017091344743
+25,"Standing","tGravityAccstdY",-0.901088770963325
+25,"Standing","tGravityAccstdZ",-0.880682330706602
+26,"Standing","fBodyAccJerkmeanX",-0.699413168295663
+26,"Standing","fBodyAccJerkmeanY",-0.696726473912755
+26,"Standing","fBodyAccJerkmeanZ",-0.76956529125
+26,"Standing","fBodyAccJerkstdX",-0.694314518927551
+26,"Standing","fBodyAccJerkstdY",-0.6803580612
+26,"Standing","fBodyAccJerkstdZ",-0.78604912494898
+26,"Standing","fBodyAccMagmean",-0.6317569828625
+26,"Standing","fBodyAccmeanX",-0.65109030186199
+26,"Standing","fBodyAccmeanY",-0.610425833240306
+26,"Standing","fBodyAccmeanZ",-0.724046087155612
+26,"Standing","fBodyAccstdX",-0.61349959767602
+26,"Standing","fBodyAccstdY",-0.600274809826275
+26,"Standing","fBodyAccstdZ",-0.718490475765306
+26,"Standing","fBodyBodyAccJerkMagmean",-0.679278323637755
+26,"Standing","fBodyBodyGyroJerkMagmean",-0.823865297193878
+26,"Standing","fBodyBodyGyroMagmean",-0.770504884821429
+26,"Standing","fBodyGyromeanX",-0.703109561068878
+26,"Standing","fBodyGyromeanY",-0.799353075357143
+26,"Standing","fBodyGyromeanZ",-0.689404846813776
+26,"Standing","fBodyGyrostdX",-0.78740310059949
+26,"Standing","fBodyGyrostdY",-0.803635337372449
+26,"Standing","fBodyGyrostdZ",-0.735942384438775
+26,"Standing","tBodyAccJerkMagmean",-0.694917859209184
+26,"Standing","tBodyAccJerkmeanX",0.0808743261341837
+26,"Standing","tBodyAccJerkmeanY",0.00767709978181122
+26,"Standing","tBodyAccJerkmeanZ",-0.00724891943768878
+26,"Standing","tBodyAccJerkstdX",-0.682815652993112
+26,"Standing","tBodyAccJerkstdY",-0.678386582086227
+26,"Standing","tBodyAccJerkstdZ",-0.778349460841837
+26,"Standing","tBodyAccMagmean",-0.600932264175765
+26,"Standing","tBodyAccmeanX",0.2730365808625
+26,"Standing","tBodyAccmeanY",-0.0161687277463495
+26,"Standing","tBodyAccmeanZ",-0.107637894928571
+26,"Standing","tBodyAccstdX",-0.623101031168367
+26,"Standing","tBodyAccstdY",-0.585967142418112
+26,"Standing","tBodyAccstdZ",-0.70498062744898
+26,"Standing","tBodyGyroJerkMagmean",-0.798325916709184
+26,"Standing","tBodyGyroJerkmeanX",-0.0988125627461224
+26,"Standing","tBodyGyroJerkmeanY",-0.040476400288852
+26,"Standing","tBodyGyroJerkmeanZ",-0.0558282743354031
+26,"Standing","tBodyGyroJerkstdX",-0.732321370690816
+26,"Standing","tBodyGyroJerkstdY",-0.836112175331633
+26,"Standing","tBodyGyroJerkstdZ",-0.773101524821429
+26,"Standing","tBodyGyroMagmean",-0.694597662936224
+26,"Standing","tBodyGyromeanX",-0.020659932105102
+26,"Standing","tBodyGyromeanY",-0.0827415060904082
+26,"Standing","tBodyGyromeanZ",0.0917853294044643
+26,"Standing","tBodyGyrostdX",-0.766673970339286
+26,"Standing","tBodyGyrostdY",-0.800675471045918
+26,"Standing","tBodyGyrostdZ",-0.703347205619898
+26,"Standing","tGravityAccMagmean",-0.600932264175765
+26,"Standing","tGravityAccmeanX",0.615123534668367
+26,"Standing","tGravityAccmeanY",0.10870478277551
+26,"Standing","tGravityAccmeanZ",0.234107010472449
+26,"Standing","tGravityAccstdX",-0.96781789994898
+26,"Standing","tGravityAccstdY",-0.959713562227041
+26,"Standing","tGravityAccstdZ",-0.955643363545918
+27,"Laying","fBodyAccJerkmeanX",-0.641991780991611
+27,"Laying","fBodyAccJerkmeanY",-0.618436710858725
+27,"Laying","fBodyAccJerkmeanZ",-0.711004343278523
+27,"Laying","fBodyAccJerkstdX",-0.63962383364094
+27,"Laying","fBodyAccJerkstdY",-0.594512488954698
+27,"Laying","fBodyAccJerkstdZ",-0.746736746744966
+27,"Laying","fBodyAccMagmean",-0.585787631892617
+27,"Laying","fBodyAccmeanX",-0.600641532119463
+27,"Laying","fBodyAccmeanY",-0.553874359468121
+27,"Laying","fBodyAccmeanZ",-0.646548247644295
+27,"Laying","fBodyAccstdX",-0.566781295338926
+27,"Laying","fBodyAccstdY",-0.565176644248322
+27,"Laying","fBodyAccstdZ",-0.620141790812081
+27,"Laying","fBodyBodyAccJerkMagmean",-0.609647345982886
+27,"Laying","fBodyBodyGyroJerkMagmean",-0.796725772701342
+27,"Laying","fBodyBodyGyroMagmean",-0.735008737516779
+27,"Laying","fBodyGyromeanX",-0.711546673275168
+27,"Laying","fBodyGyromeanY",-0.745557413412416
+27,"Laying","fBodyGyromeanZ",-0.630494529231544
+27,"Laying","fBodyGyrostdX",-0.758703337557047
+27,"Laying","fBodyGyrostdY",-0.763234809362416
+27,"Laying","fBodyGyrostdZ",-0.623261741473154
+27,"Laying","tBodyAccJerkMagmean",-0.626287365461409
+27,"Laying","tBodyAccJerkmeanX",0.076859186338255
+27,"Laying","tBodyAccJerkmeanY",0.0051839851588557
+27,"Laying","tBodyAccJerkmeanZ",-0.00554795896677852
+27,"Laying","tBodyAccJerkstdX",-0.624308492209396
+27,"Laying","tBodyAccJerkstdY",-0.593582093143792
+27,"Laying","tBodyAccJerkstdZ",-0.729557309630873
+27,"Laying","tBodyAccMagmean",-0.535726883050671
+27,"Laying","tBodyAccmeanX",0.277798919328859
+27,"Laying","tBodyAccmeanY",-0.0169386590334393
+27,"Laying","tBodyAccmeanZ",-0.112273368370134
+27,"Laying","tBodyAccstdX",-0.574783321550336
+27,"Laying","tBodyAccstdY",-0.541012892132886
+27,"Laying","tBodyAccstdZ",-0.60815876533557
+27,"Laying","tBodyGyroJerkMagmean",-0.778275050167785
+27,"Laying","tBodyGyroJerkmeanX",-0.0873862322442852
+27,"Laying","tBodyGyroJerkmeanY",-0.0464751059848658
+27,"Laying","tBodyGyroJerkmeanZ",-0.0600793214
+27,"Laying","tBodyGyroJerkstdX",-0.776155496711409
+27,"Laying","tBodyGyroJerkstdY",-0.796468156174497
+27,"Laying","tBodyGyroJerkstdZ",-0.727982409261745
+27,"Laying","tBodyGyroMagmean",-0.622646577775503
+27,"Laying","tBodyGyromeanX",-0.0683332171546644
+27,"Laying","tBodyGyromeanY",-0.0496441313538255
+27,"Laying","tBodyGyromeanZ",0.116262252263758
+27,"Laying","tBodyGyrostdX",-0.745669027144295
+27,"Laying","tBodyGyrostdY",-0.754439610369128
+27,"Laying","tBodyGyrostdZ",-0.594631679097315
+27,"Laying","tGravityAccMagmean",-0.535726883050671
+27,"Laying","tGravityAccmeanX",0.585139591107383
+27,"Laying","tGravityAccmeanY",0.0234793061308725
+27,"Laying","tGravityAccmeanZ",0.120613102375168
+27,"Laying","tGravityAccstdX",-0.971679845234899
+27,"Laying","tGravityAccstdY",-0.969891146979866
+27,"Laying","tGravityAccstdZ",-0.956568824597315
+27,"Standing","fBodyAccJerkmeanX",-0.991782158076923
+27,"Standing","fBodyAccJerkmeanY",-0.985147330128205
+27,"Standing","fBodyAccJerkmeanZ",-0.988521791666667
+27,"Standing","fBodyAccJerkstdX",-0.992649861923077
+27,"Standing","fBodyAccJerkstdY",-0.986093858717949
+27,"Standing","fBodyAccJerkstdZ",-0.990493986666667
+27,"Standing","fBodyAccMagmean",-0.978168563846154
+27,"Standing","fBodyAccmeanX",-0.990202906025641
+27,"Standing","fBodyAccmeanY",-0.975155754871795
+27,"Standing","fBodyAccmeanZ",-0.978848418461538
+27,"Standing","fBodyAccstdX",-0.990398788205128
+27,"Standing","fBodyAccstdY",-0.971690637564103
+27,"Standing","fBodyAccstdZ",-0.967165568461538
+27,"Standing","fBodyBodyAccJerkMagmean",-0.990108465769231
+27,"Standing","fBodyBodyGyroJerkMagmean",-0.993693021410256
+27,"Standing","fBodyBodyGyroMagmean",-0.980589148974359
+27,"Standing","fBodyGyromeanX",-0.986118446282051
+27,"Standing","fBodyGyromeanY",-0.985987914871795
+27,"Standing","fBodyGyromeanZ",-0.978988605384615
+27,"Standing","fBodyGyrostdX",-0.988087790769231
+27,"Standing","fBodyGyrostdY",-0.982843103974359
+27,"Standing","fBodyGyrostdZ",-0.979428019102564
+27,"Standing","tBodyAccJerkMagmean",-0.990332891538461
+27,"Standing","tBodyAccJerkmeanX",0.0767283254358974
+27,"Standing","tBodyAccJerkmeanY",0.00997154866282051
+27,"Standing","tBodyAccJerkmeanZ",-0.00266551938307692
+27,"Standing","tBodyAccJerkstdX",-0.991831534358974
+27,"Standing","tBodyAccJerkstdY",-0.985056905
+27,"Standing","tBodyAccJerkstdZ",-0.990225417948718
+27,"Standing","tBodyAccMagmean",-0.980278693846154
+27,"Standing","tBodyAccmeanX",0.275223067435897
+27,"Standing","tBodyAccmeanY",-0.0162554117217949
+27,"Standing","tBodyAccmeanZ",-0.105403810015385
+27,"Standing","tBodyAccstdX",-0.990276643846154
+27,"Standing","tBodyAccstdY",-0.972196177948718
+27,"Standing","tBodyAccstdZ",-0.969969877692308
+27,"Standing","tBodyGyroJerkMagmean",-0.994198412051282
+27,"Standing","tBodyGyroJerkmeanX",-0.0966434086025641
+27,"Standing","tBodyGyroJerkmeanY",-0.0395641430128205
+27,"Standing","tBodyGyroJerkmeanZ",-0.0530710005410256
+27,"Standing","tBodyGyroJerkstdX",-0.992694551282051
+27,"Standing","tBodyGyroJerkstdY",-0.993396012564103
+27,"Standing","tBodyGyroJerkstdZ",-0.992933121025641
+27,"Standing","tBodyGyroMagmean",-0.966683888076923
+27,"Standing","tBodyGyromeanX",-0.0324471173435897
+27,"Standing","tBodyGyromeanY",-0.0765120463525641
+27,"Standing","tBodyGyromeanZ",0.0809994171153846
+27,"Standing","tBodyGyrostdX",-0.987584196794872
+27,"Standing","tBodyGyrostdY",-0.983939928846154
+27,"Standing","tBodyGyrostdZ",-0.977847181794872
+27,"Standing","tGravityAccMagmean",-0.980278693846154
+27,"Standing","tGravityAccmeanX",0.788037331794872
+27,"Standing","tGravityAccmeanY",0.0657218505
+27,"Standing","tGravityAccmeanZ",0.219701605211973
+27,"Standing","tGravityAccstdX",-0.985853734871795
+27,"Standing","tGravityAccstdY",-0.982492101538462
+27,"Standing","tGravityAccstdZ",-0.969254340641026
+28,"Laying","fBodyAccJerkmeanX",-0.686723799059424
+28,"Laying","fBodyAccJerkmeanY",-0.670718095926963
+28,"Laying","fBodyAccJerkmeanZ",-0.779061720358639
+28,"Laying","fBodyAccJerkstdX",-0.704073382410995
+28,"Laying","fBodyAccJerkstdY",-0.654855915271466
+28,"Laying","fBodyAccJerkstdZ",-0.821715494424084
+28,"Laying","fBodyAccMagmean",-0.628763247405236
+28,"Laying","fBodyAccmeanX",-0.654156519193717
+28,"Laying","fBodyAccmeanY",-0.584932500113874
+28,"Laying","fBodyAccmeanZ",-0.715134474431937
+28,"Laying","fBodyAccstdX",-0.647807192984293
+28,"Laying","fBodyAccstdY",-0.595110472615916
+28,"Laying","fBodyAccstdZ",-0.695767279528796
+28,"Laying","fBodyBodyAccJerkMagmean",-0.675428720467801
+28,"Laying","fBodyBodyGyroJerkMagmean",-0.806882151753927
+28,"Laying","fBodyBodyGyroMagmean",-0.73790809206911
+28,"Laying","fBodyGyromeanX",-0.674356656020942
+28,"Laying","fBodyGyromeanY",-0.747067907931937
+28,"Laying","fBodyGyromeanZ",-0.673513886890838
+28,"Laying","fBodyGyrostdX",-0.762030978010471
+28,"Laying","fBodyGyrostdY",-0.740819453429319
+28,"Laying","fBodyGyrostdZ",-0.700291282881152
+28,"Laying","tBodyAccJerkMagmean",-0.689429387759162
+28,"Laying","tBodyAccJerkmeanX",0.0807263062382199
+28,"Laying","tBodyAccJerkmeanY",0.0138224436546073
+28,"Laying","tBodyAccJerkmeanZ",0.000824208324801046
+28,"Laying","tBodyAccJerkstdX",-0.680813725392147
+28,"Laying","tBodyAccJerkstdY",-0.651619848945026
+28,"Laying","tBodyAccJerkstdZ",-0.800870581884817
+28,"Laying","tBodyAccMagmean",-0.610030902501309
+28,"Laying","tBodyAccmeanX",0.277532554764398
+28,"Laying","tBodyAccmeanY",-0.0191721442063089
+28,"Laying","tBodyAccmeanZ",-0.109710873104188
+28,"Laying","tBodyAccstdX",-0.649040391307853
+28,"Laying","tBodyAccstdY",-0.573651895933508
+28,"Laying","tBodyAccstdZ",-0.685821415026178
+28,"Laying","tBodyGyroJerkMagmean",-0.78929494326178
+28,"Laying","tBodyGyroJerkmeanX",-0.0881213551172775
+28,"Laying","tBodyGyroJerkmeanY",-0.0447972595862042
+28,"Laying","tBodyGyroJerkmeanZ",-0.0607680707408115
+28,"Laying","tBodyGyroJerkstdX",-0.720515676293194
+28,"Laying","tBodyGyroJerkstdY",-0.825038783246073
+28,"Laying","tBodyGyroJerkstdZ",-0.769755981125654
+28,"Laying","tBodyGyroMagmean",-0.648538641430367
+28,"Laying","tBodyGyromeanX",-0.064496354556466
+28,"Laying","tBodyGyromeanY",-0.0471474023101021
+28,"Laying","tBodyGyromeanZ",0.100840281329581
+28,"Laying","tBodyGyrostdX",-0.740276591873298
+28,"Laying","tBodyGyrostdY",-0.741285540196335
+28,"Laying","tBodyGyrostdZ",-0.669789662889791
+28,"Laying","tGravityAccMagmean",-0.610030902501309
+28,"Laying","tGravityAccmeanX",0.62376789513089
+28,"Laying","tGravityAccmeanY",-0.14757775521466
+28,"Laying","tGravityAccmeanZ",-0.0469931021049738
+28,"Laying","tGravityAccstdX",-0.973873328062827
+28,"Laying","tGravityAccstdY",-0.960365626256545
+28,"Laying","tGravityAccstdZ",-0.946225637251309
+29,"Laying","fBodyAccJerkmeanX",-0.629875853152035
+29,"Laying","fBodyAccJerkmeanY",-0.641289075786337
+29,"Laying","fBodyAccJerkmeanZ",-0.768433928313954
+29,"Laying","fBodyAccJerkstdX",-0.651564188964826
+29,"Laying","fBodyAccJerkstdY",-0.655526116655523
+29,"Laying","fBodyAccJerkstdZ",-0.818292780813954
+29,"Laying","fBodyAccMagmean",-0.589294014734302
+29,"Laying","fBodyAccmeanX",-0.579901000186134
+29,"Laying","fBodyAccmeanY",-0.587686308146221
+29,"Laying","fBodyAccmeanZ",-0.680547675465116
+29,"Laying","fBodyAccstdX",-0.5727879490375
+29,"Laying","fBodyAccstdY",-0.630978844851831
+29,"Laying","fBodyAccstdZ",-0.602550925183721
+29,"Laying","fBodyBodyAccJerkMagmean",-0.609879937469099
+29,"Laying","fBodyBodyGyroJerkMagmean",-0.840464164156977
+29,"Laying","fBodyBodyGyroMagmean",-0.722018434984302
+29,"Laying","fBodyGyromeanX",-0.685747413486628
+29,"Laying","fBodyGyromeanY",-0.735972301656977
+29,"Laying","fBodyGyromeanZ",-0.689221357718023
+29,"Laying","fBodyGyrostdX",-0.752567831707849
+29,"Laying","fBodyGyrostdY",-0.588857987485174
+29,"Laying","fBodyGyrostdZ",-0.749163172296512
+29,"Laying","tBodyAccJerkMagmean",-0.664538060484884
+29,"Laying","tBodyAccJerkmeanX",0.0788382324713372
+29,"Laying","tBodyAccJerkmeanY",0.00900161248883721
+29,"Laying","tBodyAccJerkmeanZ",-0.00355290542467733
+29,"Laying","tBodyAccJerkstdX",-0.623456414216366
+29,"Laying","tBodyAccJerkstdY",-0.635499779848779
+29,"Laying","tBodyAccJerkstdZ",-0.793746797790698
+29,"Laying","tBodyAccMagmean",-0.553585593347965
+29,"Laying","tBodyAccmeanX",0.279111521944767
+29,"Laying","tBodyAccmeanY",-0.018471953048314
+29,"Laying","tBodyAccmeanZ",-0.108675612269477
+29,"Laying","tBodyAccstdX",-0.574295395364826
+29,"Laying","tBodyAccstdY",-0.598400275636657
+29,"Laying","tBodyAccstdZ",-0.606461283926453
+29,"Laying","tBodyGyroJerkMagmean",-0.802293906366279
+29,"Laying","tBodyGyroJerkmeanX",-0.100707751809855
+29,"Laying","tBodyGyroJerkmeanY",-0.0464322029527616
+29,"Laying","tBodyGyroJerkmeanZ",-0.052785999031686
+29,"Laying","tBodyGyroJerkstdX",-0.736117664139535
+29,"Laying","tBodyGyroJerkstdY",-0.853639613139535
+29,"Laying","tBodyGyroJerkstdZ",-0.770221314302326
+29,"Laying","tBodyGyroMagmean",-0.602228993700349
+29,"Laying","tBodyGyromeanX",-0.0101831910869331
+29,"Laying","tBodyGyromeanY",-0.0882883296441861
+29,"Laying","tBodyGyromeanZ",0.0881626266546221
+29,"Laying","tBodyGyrostdX",-0.73469927369157
+29,"Laying","tBodyGyrostdY",-0.634569173421512
+29,"Laying","tBodyGyrostdZ",-0.713864583982558
+29,"Laying","tGravityAccMagmean",-0.553585593347965
+29,"Laying","tGravityAccmeanX",0.683067625610465
+29,"Laying","tGravityAccmeanY",0.115489757911628
+29,"Laying","tGravityAccmeanZ",0.208215370043721
+29,"Laying","tGravityAccstdX",-0.973282885843023
+29,"Laying","tGravityAccstdY",-0.964643161017442
+29,"Laying","tGravityAccstdZ",-0.941621790232558
+30,"Laying","fBodyAccJerkmeanX",-0.685307771157441
+30,"Laying","fBodyAccJerkmeanY",-0.671673670524282
+30,"Laying","fBodyAccJerkmeanZ",-0.755432212793734
+30,"Laying","fBodyAccJerkstdX",-0.701879208571802
+30,"Laying","fBodyAccJerkstdY",-0.672622022924282
+30,"Laying","fBodyAccJerkstdZ",-0.807184940939948
+30,"Laying","fBodyAccMagmean",-0.600372067046214
+30,"Laying","fBodyAccmeanX",-0.635650125322193
+30,"Laying","fBodyAccmeanY",-0.55849001001906
+30,"Laying","fBodyAccmeanZ",-0.634958546900783
+30,"Laying","fBodyAccstdX",-0.609238911508407
+30,"Laying","fBodyAccstdY",-0.531321491840992
+30,"Laying","fBodyAccstdZ",-0.506570361273995
+30,"Laying","fBodyBodyAccJerkMagmean",-0.656339723754047
+30,"Laying","fBodyBodyGyroJerkMagmean",-0.811292332428198
+30,"Laying","fBodyBodyGyroMagmean",-0.669600510563003
+30,"Laying","fBodyGyromeanX",-0.667418236692689
+30,"Laying","fBodyGyromeanY",-0.629910665959817
+30,"Laying","fBodyGyromeanZ",-0.615699347830287
+30,"Laying","fBodyGyrostdX",-0.676801995680601
+30,"Laying","fBodyGyrostdY",-0.496310421449608
+30,"Laying","fBodyGyrostdZ",-0.620253390415144
+30,"Laying","tBodyAccJerkMagmean",-0.697050126998956
+30,"Laying","tBodyAccJerkmeanX",0.0734799270148825
+30,"Laying","tBodyAccJerkmeanY",0.00730438257971279
+30,"Laying","tBodyAccJerkmeanZ",-0.000653871890373369
+30,"Laying","tBodyAccJerkstdX",-0.679007254150131
+30,"Laying","tBodyAccJerkstdY",-0.6607705539047
+30,"Laying","tBodyAccJerkstdZ",-0.781644485013055
+30,"Laying","tBodyAccMagmean",-0.538131194183003
+30,"Laying","tBodyAccmeanX",0.276305836721932
+30,"Laying","tBodyAccmeanY",-0.0175856077340209
+30,"Laying","tBodyAccmeanZ",-0.10589355727859
+30,"Laying","tBodyAccstdX",-0.615890785389034
+30,"Laying","tBodyAccstdY",-0.519047387875457
+30,"Laying","tBodyAccstdZ",-0.522643273772115
+30,"Laying","tBodyGyroJerkMagmean",-0.785870931331593
+30,"Laying","tBodyGyroJerkmeanX",-0.0926769005274151
+30,"Laying","tBodyGyroJerkmeanY",-0.0412903779669452
+30,"Laying","tBodyGyroJerkmeanZ",-0.0493556177875196
+30,"Laying","tBodyGyroJerkstdX",-0.780636429556136
+30,"Laying","tBodyGyroJerkstdY",-0.79894807305483
+30,"Laying","tBodyGyroJerkstdZ",-0.76322854691906
+30,"Laying","tBodyGyroMagmean",-0.510032754098198
+30,"Laying","tBodyGyromeanX",-0.0354229280326632
+30,"Laying","tBodyGyromeanY",-0.0717482452402089
+30,"Laying","tBodyGyromeanZ",0.0834544586693995
+30,"Laying","tBodyGyrostdX",-0.671005846122715
+30,"Laying","tBodyGyrostdY",-0.538990663942298
+30,"Laying","tBodyGyrostdZ",-0.589783442185379
+30,"Laying","tGravityAccMagmean",-0.538131194183003
+30,"Laying","tGravityAccmeanX",0.696858200678851
+30,"Laying","tGravityAccmeanY",0.0512698188974987
+30,"Laying","tGravityAccmeanZ",0.184343178348037
+30,"Laying","tGravityAccstdX",-0.974319118563969
+30,"Laying","tGravityAccstdY",-0.952288292767624
+30,"Laying","tGravityAccstdZ",-0.92943263464752
