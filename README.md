@@ -10,9 +10,9 @@ Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.ed
 | Name | Description |
 | ---- | --- |
 | run_analysis.R | Script to download and process raw data. |
-| tidy_data.csv & tidy_data.txt | Merged *tidy* output produced by run_analysis.R. (~6.9MB) |
-| averages.csv & averages.txt | Average measurement values by subject and activity produced by  run_analysis.R. (~120KB) |
-| CodeBook.md](./CodeBook.md) | CodeBook for tidy_data.csv |
+| merged.csv & merged.txt | Merged output produced by run_analysis.R. (~6.9MB) |
+| averages.csv & averages.txt | *Tidy*, average measurement values by subject and activity produced by run_analysis.R. (~120KB) |
+| CodeBook.md](./CodeBook.md) | CodeBook for merged.csv and averages.csv. |
 
 ## Running the script
 
@@ -34,7 +34,10 @@ This script:
 	- Merges *test* data for *mean* and *standard deviation* features.
 	- Merges *training* data for *mean* and *standard deviation* features.
 	- Appends the *test* and *training* data.
-4. Writes the tidied data to 
- 	- [tidy.csv]("./tidy.csv")
- 	- [tidy.txt]("./tidy.txt")
-5. Determines average measurement values by subject and activity.
+4. Writes the merged data to:
+ 	- [merged.csv]("./merged.csv")
+ 	- [merged.txt]("./merged.txt")
+5. Determines average measurement values by subject and activity and writes the *tidy* data to:
+ 	- [averages.csv]("./merged.csv")
+ 	- [averages.txt]("./merged.txt")
+

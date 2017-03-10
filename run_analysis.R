@@ -87,19 +87,19 @@ train <- loadAndProcessGroup("train")
 #################### Merge ####################
 
 message("Binding 'test' and 'train' data...")
-tidy <- bind_rows(test, train)
+merged <- bind_rows(test, train)
 
 message("Creating summary of averages by subject and activity...")
-averages <- select(tidy, -group) %>% 
+averages <- select(merged, -group) %>% 
             gather(measurement, value, -subject, -activity) %>%
             group_by(subject, activity, measurement) %>%
             summarize(average=mean(value))
 
 #################### Output ####################
 
-message("Writing merged data to ./tidy_data.csv and ./tidy_data.txt ...")
-write.csv(tidy, "tidy_data.csv", row.names=FALSE)
-write.table(tidy, "tidy_data.txt", row.names=FALSE)
+message("Writing merged data to ./merged.csv and ./merged.txt ...")
+write.csv(tidy, "merged.csv", row.names=FALSE)
+write.table(tidy, "merged.txt", row.names=FALSE)
 
 message("Writing averages summary to ./averages.csv and ./averages.txt ...")
 write.csv(summary, "averages.csv", row.names=FALSE)
