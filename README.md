@@ -33,4 +33,6 @@ This script:
 	- Merges *test* data for *mean* and *standard deviation* features.
 	- Merges *training* data for *mean* and *standard deviation* features.
 	- Appends the *test* and *training* data.
-4. Writes the tidied data to [tidy.csv]("./tidy.csv")
+4. Writes the tidied data to 
+ 	- [tidy.csv]("./tidy.csv")
+ 	- [tidy.txt]("./tidy.txt")

@@ -1,6 +1,6 @@
 # Code Book
 
-This code book describes the data in [tidy_data.csv](./tidy_data.csv) derived from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip using [run_analysis.R](./run_analysis.R).
+This code book describes the data in [tidy_data.csv](./tidy_data.csv) (and [tidy_data.txt](./tidy_data.txt) derived from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip using [run_analysis.R](./run_analysis.R).
 
 It complements the information available at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
 
