@@ -2,17 +2,17 @@
 
 ## Description
 
-This project uses R to download, filter and tidy the [
+This project uses R to download, filter, tidy and summarise the [
 Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) contained in the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.html).
 
 ### Contents
 
 | Name | Description |
 | ---- | --- |
-| [run_analysis.R](./run_analysis.R) | Script to download and process raw data. |
-| [tidy_data.csv](./tidy_data.csv) | Comma-separated output of run_analysis.R. (~6.9MB) |
-| [tidy_data.txt](./tidy_data.csv) | Text output of run_analysis.R. (~6.9MB) |
-| [CodeBook.md](./CodeBook.md) | CodeBook for tidy_data.csv |
+| run_analysis.R | Script to download and process raw data. |
+| tidy_data.csv & tidy_data.txt | Merged *tidy* output produced by run_analysis.R. (~6.9MB) |
+| averages.csv & averages.txt | Average measurement values by subject and activity produced by  run_analysis.R. (~120KB) |
+| CodeBook.md](./CodeBook.md) | CodeBook for tidy_data.csv |
 
 ## Running the script
 
@@ -37,3 +37,4 @@ This script:
 4. Writes the tidied data to 
  	- [tidy.csv]("./tidy.csv")
  	- [tidy.txt]("./tidy.txt")
+5. Determines average measurement values by subject and activity.
