@@ -9,9 +9,9 @@ Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.ed
 
 | Name | Description |
 | ---- | --- |
-| run_analysis.R | Script to download and process raw data. |
-| tidy_data.csv | Comma-separated output of run_analysis.R. (~6.9MB) |
-| CodeBook.md | CodeBook for tidy_data.csv |
+| [run_analysis.R](./run_analysis.R) | Script to download and process raw data. |
+| [tidy_data.csv](./tidy_data.csv) | Comma-separated output of run_analysis.R. (~6.9MB) |
+| [CodeBook.md](./CodeBook.md) | CodeBook for tidy_data.csv |
 
 ## Running the script
 
