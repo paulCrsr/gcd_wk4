@@ -92,6 +92,6 @@ tidy <- bind_rows(test, train)
 #################### Output ####################
 
 message("Writing to ./data.csv ...")
-write.csv(tidy, "tidy_data.csv")
+write.csv(tidy, "tidy_data.csv", row.names=FALSE)
 
 message("Done!")
