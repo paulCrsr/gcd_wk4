@@ -5,7 +5,7 @@ This code book describes the data derived from https://d396qusza40orc.cloudfront
  * [merged.csv](./merged.csv) (and [merged.txt](./merged.txt))
  * [averages.csv](./averages.csv) (and [averages.txt](./averages.txt))
 
-It complements the information available at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
+This complements the information available at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
 
 ### Raw Data Description
 
@@ -84,11 +84,13 @@ The 57 remaining feature columns are a subset of the features contained in the r
  - fBodyBodyGyroMagmean
  - fBodyBodyGyroJerkMagmean
 
- ## Data Set: averages.csv (averages.txt)
+## Data Set: averages.csv (averages.txt)
 
-Produced by grouping and summarising data in `merged.csv`. Dimensions: rows=2,280, columns: 4
+Produced by grouping and summarising data in `merged.csv`. Dimensions: rows=2,280, columns: 4.
 
-### Columns 
+Each row contains the average measurement value (normalised to the range [-1, 1]) for a subject and activity.
+
+### Columns
 
  - `subject`: ID of volunteer. Values: `1-30`.
  - `activity`: Activity performed by the volunteer. Values: `Laying`, `Sitting`, `Standing`, `Walking`, `Walking Downstairs`, `Walking Upstairs`.
