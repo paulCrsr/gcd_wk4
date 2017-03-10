@@ -1,6 +1,6 @@
 # Code Book
 
-This code book describes the data in [tidy_data.csv](./tidy.csv) derived from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip using [run_analysis.R](./run_analysis.R).
+This code book describes the data in [tidy_data.csv](./tidy_data.csv) derived from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip using [run_analysis.R](./run_analysis.R).
 
 ### Raw Data Description
 
