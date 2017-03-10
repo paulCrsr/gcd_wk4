@@ -1,6 +1,9 @@
 # Code Book
 
-This code book describes the data in [tidy_data.csv](./tidy_data.csv) (and [tidy_data.txt](./tidy_data.txt) derived from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip using [run_analysis.R](./run_analysis.R).
+This code book describes the data derived from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip using [run_analysis.R](./run_analysis.R) and held in:
+
+ * [tidy_data.csv](./tidy_data.csv) (and [tidy_data.txt](./tidy_data.txt))
+ * [averages.csv](./averages.csv) (and [averages.txt](./averages.txt))
 
 It complements the information available at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
 
@@ -10,9 +13,9 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 
 The sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50% overlap (128 readings/window). The sensor acceleration signal, which has gravitational and body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by calculating variables from the time and frequency domain.
 
-## Tidied data: tidy_data.csv
+## Data Set: tidy_data.csv (tidy_data.txt)
 
-Dimensions: rows=10299, columns: 60
+Produced by merging *Test* and *Training* data into a single dataset. Dimensions: rows=10,299, columns: 60
 
 ### Key columns 
 
@@ -80,3 +83,14 @@ The 57 remaining feature columns are a subset of the features contained in the r
  - fBodyBodyAccJerkMagmean
  - fBodyBodyGyroMagmean
  - fBodyBodyGyroJerkMagmean
+
+ ## Data Set: averages.csv (averages.txt)
+
+Produced by grouping and summarising data in `tidy_data.csv`. Dimensions: rows=2,280, columns: 4
+
+### Columns 
+
+ - `subject`: ID of volunteer. Values: `1-30`.
+ - `activity`: Activity performed by the volunteer. Values: `Laying`, `Sitting`, `Standing`, `Walking`, `Walking Downstairs`, `Walking Upstairs`.
+ - `measurement`: The name of the measurement.
+ - `average`: The average (mean) of the measurement for the subject and activity.
