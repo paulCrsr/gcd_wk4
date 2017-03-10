@@ -74,9 +74,8 @@ loadAndProcessGroup <- function(group) {
         
         message("Combining...", class(subject))
         combined <- 
-                mutate(group=capwords(group)) %>%
-                bind_cols(subject, activities) %>%
-                bind_cols(readings)
+                mutate(subject, group=capwords(group)) %>%
+                bind_cols(activities, readings)
 
         message("... completed ", toupper(group), ".")
         combined
