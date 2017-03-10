@@ -2,7 +2,7 @@
 
 ## Description
 
-This project uses R to collect, filter and tidy [
+This project uses R to download, filter and tidy the [
 Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) contained in the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.html).
 
 ### Contents
