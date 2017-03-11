@@ -86,7 +86,7 @@ The 57 remaining feature columns are a subset of the features contained in the r
 
 ## averages.csv
 
-Produced by grouping and summarising data in `merged.csv`. Dimensions: rows=2,280, columns: 4.
+Produced by grouping and summarising `merged.csv`. Dimensions: rows=2,280, columns: 4.
 
 Each row contains the average measurement value (normalised to the range [-1, 1]) for a subject and activity.
 
