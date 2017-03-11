@@ -2,8 +2,8 @@
 
 This code book describes the data derived from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip using [run_analysis.R](./run_analysis.R) and held in:
 
- * [merged.csv](#merged.csv) (and [merged.txt](./merged.txt))
- * [averages.csv](#averages.csv) (and [averages.txt](./averages.txt))
+ * [merged.csv](#mergedcsv) (and .txt)
+ * [averages.csv](#averagescsv) (and .txt)
 
 This complements the information available at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
 
